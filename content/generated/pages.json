@@ -1,0 +1,1844 @@
+[
+  {
+    "enabled": true,
+    "slug": "heroes",
+    "pageType": "list",
+    "navLabel": "Heroes",
+    "title": "Kingdom Rush 6 Heroes: All 12 Heroes & Best Pairings",
+    "description": "Meet all 12 Kingdom Rush 6: Genesis heroes. See each hero’s role, strengths, pairing ideas, and how to choose two heroes for different stages.",
+    "keywords": [
+      "kingdom rush 6 heroes"
+    ],
+    "primaryKeyword": "kingdom rush 6 heroes",
+    "secondaryKeywords": [],
+    "searchIntent": "Meet all 12 Kingdom Rush 6: Genesis heroes. See each hero’s role, strengths, pairing ideas, and how to choose two heroes for different stages.",
+    "priority": "P0",
+    "navVisible": true,
+    "parentSlug": "",
+    "wordCountTarget": 850,
+    "factsStatus": "verified",
+    "hero": {
+      "eyebrow": "Genesis guide",
+      "heading": "Kingdom Rush 6 Heroes",
+      "lead": "Kingdom Rush 6: Genesis has 12 heroes, and you field two heroes per stage. Choose a pair that covers different jobs; Classic Mode instead uses one hero."
+    },
+    "sections": [
+      {
+        "id": "roster",
+        "heading": "All 12 Kingdom Rush 6 Heroes",
+        "paragraphs": [
+          "The roster combines familiar champions with new allies. The names below refer to Genesis; a returning character’s role in another Kingdom Rush game does not automatically describe this version. Use the role column as a starting point for choosing a job, then compare the skills available in your current hero setup."
+        ],
+        "table": {
+          "caption": "All 12 heroes roster",
+          "columns": [
+            "Hero",
+            "Role",
+            "Pairing purpose"
+          ],
+          "rows": [
+            [
+              "Malik",
+              "Ground bruiser",
+              "Hold a busy road"
+            ],
+            [
+              "Bolin",
+              "Ranged sharpshooter",
+              "Support a held lane"
+            ],
+            [
+              "Connor",
+              "Melee fighter",
+              "Fight near a choke"
+            ],
+            [
+              "Drakkan",
+              "Arcane dragon",
+              "Answer resistant threats"
+            ],
+            [
+              "Gemina",
+              "Illusion support",
+              "Spread pressure with illusions"
+            ],
+            [
+              "Ignus",
+              "Close-range fire fighter",
+              "Attack packed ground enemies"
+            ],
+            [
+              "Rhodes",
+              "Protective earth bastion",
+              "Protect a defensive position"
+            ],
+            [
+              "Gerald",
+              "Front-line paladin",
+              "Anchor a ground defense"
+            ],
+            [
+              "Zefira",
+              "Close-range battlemage",
+              "Add magic to a melee pair"
+            ],
+            [
+              "Ashbite",
+              "Fire dragon",
+              "Help clear crowded routes"
+            ],
+            [
+              "Oni",
+              "Melee damage specialist",
+              "Focus a dangerous target"
+            ],
+            [
+              "Illiana",
+              "Dragon tamer",
+              "Support a ranged approach"
+            ]
+          ]
+        },
+        "links": [
+          {
+            "slug": "tier-list",
+            "label": "Tier List"
+          }
+        ]
+      },
+      {
+        "id": "two-heroes",
+        "heading": "How the Two-Hero System Works",
+        "paragraphs": [
+          "A normal stage gives you two hero slots. Think of those slots as two separate responsibilities, rather than simply picking the highest-ranked names. One hero can stay near the main fighting position while the other responds to a route that has less tower coverage. If both heroes are always in the same place, the second slot may be doing less useful work than it could.",
+          "Before starting, identify where enemies can reach the exit and which lane your towers are best prepared to handle. Assign the heroes accordingly. Moving a hero away from a difficult fight can be a sensible decision when another unit can hold that position; sending both heroes away at once leaves the original defense exposed. Keep an eye on the whole road rather than only on the largest group of enemies."
+        ]
+      },
+      {
+        "id": "roles",
+        "heading": "Kingdom Rush 6 Hero Roles",
+        "paragraphs": [],
+        "subsections": [
+          {
+            "heading": "Front-line and protective heroes",
+            "paragraphs": [
+              "Gerald, Malik and Rhodes are useful starting points when looking for a ground defense role. Their purpose in a pair is to help give your damage sources room to work. A durable-looking hero still needs a sensible position; judge the result by whether the road stays controlled, not by whether the hero is standing nearest to every enemy."
+            ]
+          },
+          {
+            "heading": "Damage-focused heroes",
+            "paragraphs": [
+              "Ignus brings close-range fire, while Oni offers a melee damage focus. Drakkan is the arcane dragon option for troublesome resistant enemies. Choose a damage partner after deciding how the lane will be held. Damage alone does not answer the question of which unit will keep a ground threat inside the tower coverage."
+            ]
+          },
+          {
+            "heading": "Ranged and dragon choices",
+            "paragraphs": [
+              "Bolin, Ashbite and Illiana offer alternatives to a pair built entirely around ground melee. Consider them when you want a second source of pressure while your front line does its job. Do not assume that every ranged or flying hero handles every kind of target identically; read the current skill descriptions before committing to a setup."
+            ]
+          },
+          {
+            "heading": "Support and magical coverage",
+            "paragraphs": [
+              "Gemina’s illusions and Zefira’s battlemage identity give you different ways to complement a partner. A support choice makes most sense when you already know what it is supporting. Ask whether your defense needs another body, a magical contribution or coverage in another area, and choose around that need."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "pairings",
+        "heading": "How to Build a Strong Hero Pair",
+        "paragraphs": [],
+        "subsections": [
+          {
+            "heading": "Pair complementary roles",
+            "paragraphs": [
+              "Gerald plus Zefira is a straightforward editorial starting point: a paladin alongside a battlemage. Rhodes plus Gemina is an alternative built around protection and illusions. These are pairing ideas, not guaranteed wins. If a stage already has excellent ground control from towers, a different second hero may do more useful work."
+            ]
+          },
+          {
+            "heading": "Cover split lanes",
+            "paragraphs": [
+              "On a split map, decide which hero has a permanent position and which one you will move. A pair that looks powerful at one shared choke may be awkward when the roads never meet. Watch travel and attention costs: a hero you constantly forget to reposition may contribute less than a simpler option you manage consistently."
+            ]
+          },
+          {
+            "heading": "Match heroes to the tower loadout",
+            "paragraphs": [
+              "Start with the five selected towers, then ask what those towers leave uncovered. If blocking is already reliable, use a hero slot for another job. If the selected towers mainly deal damage, ground support deserves attention. Use spells as the final layer rather than expecting a single hero to fix every gap."
+            ],
+            "bullets": [
+              "Give each hero a clear job.",
+              "Avoid choosing both slots for the same weakness.",
+              "Change one choice at a time when reviewing a failed defense."
+            ]
+          }
+        ],
+        "links": [
+          {
+            "slug": "towers",
+            "label": "Towers"
+          },
+          {
+            "slug": "spells",
+            "label": "Spells"
+          }
+        ]
+      },
+      {
+        "id": "modes",
+        "heading": "Heroes for Different Game Modes",
+        "paragraphs": [
+          "Hero rules change by mode. The main campaign uses two heroes, Classic Mode uses one, Hero Party uses four with no spells, and Spell Rush removes heroes. A normal two-hero pairing therefore cannot be copied unchanged into every challenge.",
+          "In Classic Mode, choose the one hero that complements the original tower lines. In Hero Party, divide responsibilities across the available heroes rather than stacking them without a plan. In Spell Rush, solve problems through tower selection and spell timing; no hero can be held in reserve as an emergency response."
+        ],
+        "links": [
+          {
+            "slug": "classic-mode",
+            "label": "Classic Mode"
+          }
+        ]
+      },
+      {
+        "id": "best",
+        "heading": "Best Kingdom Rush 6 Heroes",
+        "paragraphs": [
+          "Use our tier list to narrow a choice, then check the stage. Ignus and Drakkan are strong launch-window candidates for a damage-focused slot; Gerald is a clear reference point for a ground anchor. Ease of use matters too: a hero whose job you understand is a better starting choice than a highly ranked hero whose positioning you cannot yet manage. Rankings can vary by stage and loadout."
+        ],
+        "links": [
+          {
+            "slug": "tier-list",
+            "label": "Tier List"
+          },
+          {
+            "slug": "",
+            "label": "Kingdom Rush 6 Guide"
+          }
+        ]
+      },
+      {
+        "id": "official-reference",
+        "heading": "Official Reference",
+        "externalLinks": [
+          {
+            "label": "Kingdom Rush 6: Genesis official website",
+            "url": "https://www.kingdomrushgenesis.com/"
+          },
+          {
+            "label": "Ironhide full lineup",
+            "url": "https://www.ironhidegames.com/News/Details/525"
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "How many heroes are in Kingdom Rush 6?",
+        "answer": "There are 12 heroes in the launch roster."
+      },
+      {
+        "question": "How many heroes can you use per stage?",
+        "answer": "The normal campaign uses two heroes. Classic Mode uses one, Hero Party uses four, and Spell Rush uses none."
+      },
+      {
+        "question": "Which heroes are best for beginners?",
+        "answer": "Start with complementary roles such as Gerald and Zefira, then adapt the pair to your available heroes and stage layout."
+      },
+      {
+        "question": "Who are the Kingdom Rush 6 heroes?",
+        "answer": "Malik, Bolin, Connor, Drakkan, Gemina, Ignus, Rhodes, Gerald, Zefira, Ashbite, Oni, Illiana."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "tier-list",
+      "towers",
+      "spells",
+      "classic-mode"
+    ],
+    "lastReviewed": "2026-10-01"
+  },
+  {
+    "enabled": true,
+    "slug": "towers",
+    "pageType": "list",
+    "navLabel": "Towers",
+    "title": "Kingdom Rush 6 Towers: All 15 Towers & Best Uses",
+    "description": "See all 15 Kingdom Rush 6: Genesis towers, what each tower is built to do, how five-tower loadouts work, and which roles fit different stages.",
+    "keywords": [
+      "kingdom rush 6 towers"
+    ],
+    "primaryKeyword": "kingdom rush 6 towers",
+    "secondaryKeywords": [],
+    "searchIntent": "See all 15 Kingdom Rush 6: Genesis towers, what each tower is built to do, how five-tower loadouts work, and which roles fit different stages.",
+    "priority": "P0",
+    "navVisible": true,
+    "parentSlug": "",
+    "wordCountTarget": 850,
+    "factsStatus": "verified",
+    "hero": {
+      "eyebrow": "Genesis guide",
+      "heading": "Kingdom Rush 6 Towers",
+      "lead": "Kingdom Rush 6: Genesis has 15 towers, and you bring five towers into battle. Build a loadout around coverage, ground control and the demands of the stage."
+    },
+    "sections": [
+      {
+        "id": "tower-list",
+        "heading": "All 15 Kingdom Rush 6 Towers",
+        "paragraphs": [
+          "The launch roster contains fifteen named towers. This is the normal Genesis selection, distinct from the original tower lines used in Classic Mode. Roles below describe the kind of contribution to look for; they do not imply that two towers in the same broad category have identical targeting or upgrades."
+        ],
+        "table": {
+          "caption": "All 15 towers",
+          "columns": [
+            "Tower",
+            "Main role"
+          ],
+          "rows": [
+            [
+              "Archer Garrison",
+              "Basic ranged coverage"
+            ],
+            [
+              "Elven Elite Ranger",
+              "Ranged elven firepower"
+            ],
+            [
+              "Scholar Mage",
+              "Magic coverage"
+            ],
+            [
+              "Light Priestess",
+              "Damage and nearby ally protection"
+            ],
+            [
+              "Sunray Master",
+              "Light-infused energy attacks"
+            ],
+            [
+              "Knights Order",
+              "Barracks and ground blocking"
+            ],
+            [
+              "Wildcat Huntresses",
+              "Melee elven fighters"
+            ],
+            [
+              "Dwarven Culverin",
+              "Artillery fire"
+            ],
+            [
+              "Royal Catapult",
+              "Area artillery"
+            ],
+            [
+              "Ironbark Treant",
+              "Flexible treant defense"
+            ],
+            [
+              "Gold Prospectors",
+              "Fighting and gold generation"
+            ],
+            [
+              "Cursed Crossbows",
+              "Dark ranged weaponry"
+            ],
+            [
+              "Alchemist Shack",
+              "Potions that hinder and hurt"
+            ],
+            [
+              "Arcane Forger",
+              "Magic weapon specialist"
+            ],
+            [
+              "Sentry Watchtower",
+              "Patient long-distance sharpshooting"
+            ]
+          ]
+        },
+        "links": [
+          {
+            "slug": "tier-list",
+            "label": "Tier List"
+          },
+          {
+            "slug": "classic-mode",
+            "label": "Classic Mode"
+          }
+        ]
+      },
+      {
+        "id": "five-towers",
+        "heading": "How the Five-Tower Loadout Works",
+        "paragraphs": [
+          "You select five tower types to take into a normal battle. Five selected types is a loadout limit, not a statement that a map contains only five build positions. Decide which jobs need to be available before entering the stage. A choice that duplicates an existing role uses a slot that could otherwise cover a missing one.",
+          "Start with a plan for ordinary ground enemies, a plan for threats your main damage source handles poorly, and a way to keep the road under control. Then use the remaining room for a specialist. The map matters: multiple isolated roads create a different placement problem from a long road that passes several tower positions. Do not assume your previous successful loadout is automatically complete for the next map."
+        ]
+      },
+      {
+        "id": "roles",
+        "heading": "Kingdom Rush 6 Tower Roles",
+        "paragraphs": [],
+        "subsections": [
+          {
+            "heading": "Ranged coverage",
+            "paragraphs": [
+              "Archer Garrison and Elven Elite Ranger are natural reference points for ranged coverage. Cursed Crossbows adds a dark weapon theme, while Sentry Watchtower emphasizes distant sharpshooting. Check the actual targeting rules before relying on a tower for airborne threats. Range is useful only when the important part of the road passes through it."
+            ]
+          },
+          {
+            "heading": "Magic and support",
+            "paragraphs": [
+              "Scholar Mage, Light Priestess, Sunray Master and Arcane Forger offer different magical approaches. Light Priestess combines offense with protection nearby. Do not collapse all these choices into one interchangeable mage slot: support, concentrated attacks and general coverage ask different things of your placement and the other towers around them."
+            ]
+          },
+          {
+            "heading": "Blocking and lane control",
+            "paragraphs": [
+              "Knights Order gives a clear barracks reference. Wildcat Huntresses and Ironbark Treant provide alternative ways to shape a ground defense. Put the holding point where the rest of your loadout can exploit it. A strong blocker far away from your damage sources can create a long fight without solving the wave."
+            ]
+          },
+          {
+            "heading": "Artillery and specialists",
+            "paragraphs": [
+              "Dwarven Culverin and Royal Catapult are the artillery options to compare. Alchemist Shack uses potions to hinder and hurt, while Gold Prospectors combines fighting with gold generation. Specialist utility must justify the selected slot. Extra resources or control are most useful when the rest of the defense can turn that advantage into a safe road."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "balanced",
+        "heading": "How to Build a Balanced Tower Loadout",
+        "paragraphs": [
+          "A balanced selection does not mean putting one of every visual style on the bar. It means having answers to the threats and paths in front of you. Compare physical and magical coverage, whether you can hold ground enemies, and whether the remaining slots help the whole defense rather than simply adding another favorite.",
+          "Consider a starting framework with Archer Garrison for ranged fire, Scholar Mage for magic, Knights Order for blocking and Royal Catapult for area pressure. The fifth selection should answer a particular map problem. This is an editorial framework, not a universal preset or a requirement to own a specific tower. Substitute available choices that perform the job you actually need.",
+          "Placement and selection are separate decisions. A suitable tower can still be wasted in a poor position. Look for stretches of road where coverage overlaps and where a held group can remain under fire. On divided routes, spending everything around one powerful group of towers may leave the other side with no reliable answer."
+        ],
+        "steps": [
+          {
+            "heading": "Read the route",
+            "description": "Identify the exits, separate lanes and useful shared fighting positions."
+          },
+          {
+            "heading": "Assign five jobs",
+            "description": "Check damage coverage, blocking and the reason for each specialist slot."
+          },
+          {
+            "heading": "Review the leak",
+            "description": "If a run fails, identify the uncovered role before replacing the whole loadout."
+          }
+        ],
+        "links": [
+          {
+            "slug": "heroes",
+            "label": "Heroes"
+          },
+          {
+            "slug": "spells",
+            "label": "Spells"
+          }
+        ]
+      },
+      {
+        "id": "situations",
+        "heading": "Best Towers for Common Situations",
+        "paragraphs": [
+          "Scholar Mage and Royal Catapult are good starting points for a general-purpose damage core in our launch-window rankings. Knights Order becomes especially valuable when a ground holding point is the missing piece. Sentry Watchtower deserves consideration when distant coverage fits the road, while a utility choice needs a stage where its contribution can be put to work.",
+          "Avoid reading a lower tier as an instruction never to use that tower. A specialist that solves your specific leak may outperform another damage tower that duplicates what is already working. Keep the rest of the team in mind: heroes and spells can cover a weakness, but depending on an emergency response every time the same threat appears makes the defense harder to manage."
+        ],
+        "links": [
+          {
+            "slug": "tier-list",
+            "label": "Tier List"
+          }
+        ]
+      },
+      {
+        "id": "classic",
+        "heading": "Classic Towers vs Genesis Towers",
+        "paragraphs": [
+          "Classic Mode uses the original Archer, Barracks, Mage and Artillery lines with their original upgrade paths. Its twenty listed names include stages along those paths and final specialists. They are not another twenty choices added to the fifteen-tower Genesis loadout. Use the Classic guide when deciding between those branches, rather than applying a normal-mode tier table directly."
+        ],
+        "links": [
+          {
+            "slug": "classic-mode",
+            "label": "Classic Mode"
+          },
+          {
+            "slug": "",
+            "label": "Kingdom Rush 6 Guide"
+          }
+        ]
+      },
+      {
+        "id": "official-reference",
+        "heading": "Official Reference",
+        "externalLinks": [
+          {
+            "label": "Kingdom Rush 6: Genesis official website",
+            "url": "https://www.kingdomrushgenesis.com/"
+          },
+          {
+            "label": "Ironhide full lineup",
+            "url": "https://www.ironhidegames.com/News/Details/525"
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "How many towers are in Kingdom Rush 6?",
+        "answer": "The normal Genesis roster has 15 towers."
+      },
+      {
+        "question": "How many towers can you bring into battle?",
+        "answer": "You select five tower types for a normal loadout."
+      },
+      {
+        "question": "Are Classic Mode towers the same as Genesis towers?",
+        "answer": "No. Classic Mode uses the four original tower lines and their upgrade paths."
+      },
+      {
+        "question": "What is the best tower?",
+        "answer": "Scholar Mage and Royal Catapult are strong editorial starting points, but the best choice depends on coverage, placement and the rest of your loadout."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "tier-list",
+      "heroes",
+      "classic-mode",
+      "spells"
+    ],
+    "lastReviewed": "2026-10-01"
+  },
+  {
+    "enabled": true,
+    "slug": "tier-list",
+    "pageType": "list",
+    "navLabel": "Tier List",
+    "title": "Kingdom Rush 6 Tier List: Heroes, Towers & Spells",
+    "description": "Kingdom Rush 6 tier list for heroes, towers, and spells, with role-based rankings, pairing logic, and clear notes on when each pick works best.",
+    "keywords": [
+      "kingdom rush 6 tier list"
+    ],
+    "primaryKeyword": "kingdom rush 6 tier list",
+    "secondaryKeywords": [],
+    "searchIntent": "Kingdom Rush 6 tier list for heroes, towers, and spells, with role-based rankings, pairing logic, and clear notes on when each pick works best.",
+    "priority": "P0",
+    "navVisible": true,
+    "parentSlug": "",
+    "wordCountTarget": 850,
+    "factsStatus": "verified",
+    "hero": {
+      "eyebrow": "Genesis guide",
+      "heading": "Kingdom Rush 6 Tier List",
+      "lead": "This launch-window Kingdom Rush 6 tier list ranks heroes, towers and spells as editorial recommendations. Stage layout, enemy mix and loadout synergy affect every pick’s value."
+    },
+    "sections": [
+      {
+        "id": "overview",
+        "heading": "Kingdom Rush 6 Tier List at a Glance",
+        "paragraphs": [
+          "S means a strong starting recommendation, A means a good complementary choice, and B means a specialist whose slot needs a clear reason. These letters express editorial priorities for normal campaign planning. They are not damage measurements, a promise of success, or a ranking for every challenge mode."
+        ],
+        "table": {
+          "caption": "Compact tier overview",
+          "columns": [
+            "Category",
+            "S-tier starting picks"
+          ],
+          "rows": [
+            [
+              "Heroes",
+              "Ignus; Drakkan"
+            ],
+            [
+              "Towers",
+              "Scholar Mage; Royal Catapult"
+            ],
+            [
+              "Spells",
+              "Reinforcements; Rain of Fire; Wintersong’s Wrath"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "hero-tiers",
+        "heading": "Hero Tier List",
+        "paragraphs": [
+          "Choose a hero pair, not two letters in isolation. A ground anchor can make an aggressive partner more practical, and a specialist may solve a particular stage even when a more flexible hero sits above it."
+        ],
+        "table": {
+          "caption": "Hero tier recommendations",
+          "columns": [
+            "Hero",
+            "Tier",
+            "Best for / reason"
+          ],
+          "rows": [
+            [
+              "Malik",
+              "A",
+              "Hold a busy road"
+            ],
+            [
+              "Bolin",
+              "B",
+              "Support a held lane"
+            ],
+            [
+              "Connor",
+              "B",
+              "Fight near a choke"
+            ],
+            [
+              "Drakkan",
+              "S",
+              "Answer resistant threats"
+            ],
+            [
+              "Gemina",
+              "A",
+              "Spread pressure with illusions"
+            ],
+            [
+              "Ignus",
+              "S",
+              "Attack packed ground enemies"
+            ],
+            [
+              "Rhodes",
+              "A",
+              "Protect a defensive position"
+            ],
+            [
+              "Gerald",
+              "A",
+              "Anchor a ground defense"
+            ],
+            [
+              "Zefira",
+              "A",
+              "Add magic to a melee pair"
+            ],
+            [
+              "Ashbite",
+              "A",
+              "Help clear crowded routes"
+            ],
+            [
+              "Oni",
+              "A",
+              "Focus a dangerous target"
+            ],
+            [
+              "Illiana",
+              "A",
+              "Support a ranged approach"
+            ]
+          ]
+        },
+        "subsections": [
+          {
+            "heading": "S Tier Heroes",
+            "paragraphs": [
+              "Ignus and Drakkan are our launch-window damage priorities. Pick the one whose role fits the pressure you need to answer, then build the second slot around the remaining job. Choosing both is not automatically better than pairing one with a ground anchor."
+            ]
+          },
+          {
+            "heading": "A Tier Heroes",
+            "paragraphs": [
+              "The A group is where complementary choices matter most. Gerald or Rhodes gives a defensive direction; Gemina changes the support plan; Zefira adds a battlemage option. Ashbite is a useful crowd-oriented alternative. These choices can be the more practical answer when the map or your selected towers already covers the S-tier role."
+            ]
+          },
+          {
+            "heading": "B Tier and Situational Heroes",
+            "paragraphs": [
+              "Bolin and Connor belong to our situational group. A lower recommendation reflects how specifically we would plan their job, not a claim that they cannot finish the campaign. Give a chosen specialist a position and a partner that lets its contribution matter."
+            ]
+          }
+        ],
+        "links": [
+          {
+            "slug": "heroes",
+            "label": "Heroes"
+          }
+        ]
+      },
+      {
+        "id": "tower-tiers",
+        "heading": "Tower Tier List",
+        "paragraphs": [
+          "Our tower table favors a dependable damage core first, then the blocking and specialist choices that help that core work. Every entry still has to earn one of five selected slots."
+        ],
+        "table": {
+          "caption": "Tower tier recommendations",
+          "columns": [
+            "Tower",
+            "Tier",
+            "Role to plan around"
+          ],
+          "rows": [
+            [
+              "Archer Garrison",
+              "A",
+              "Basic ranged coverage"
+            ],
+            [
+              "Elven Elite Ranger",
+              "A",
+              "Ranged elven firepower"
+            ],
+            [
+              "Scholar Mage",
+              "S",
+              "Magic coverage"
+            ],
+            [
+              "Light Priestess",
+              "A",
+              "Damage and nearby ally protection"
+            ],
+            [
+              "Sunray Master",
+              "B",
+              "Light-infused energy attacks"
+            ],
+            [
+              "Knights Order",
+              "A",
+              "Barracks and ground blocking"
+            ],
+            [
+              "Wildcat Huntresses",
+              "B",
+              "Melee elven fighters"
+            ],
+            [
+              "Dwarven Culverin",
+              "A",
+              "Artillery fire"
+            ],
+            [
+              "Royal Catapult",
+              "S",
+              "Area artillery"
+            ],
+            [
+              "Ironbark Treant",
+              "A",
+              "Flexible treant defense"
+            ],
+            [
+              "Gold Prospectors",
+              "B",
+              "Fighting and gold generation"
+            ],
+            [
+              "Cursed Crossbows",
+              "B",
+              "Dark ranged weaponry"
+            ],
+            [
+              "Alchemist Shack",
+              "B",
+              "Potions that hinder and hurt"
+            ],
+            [
+              "Arcane Forger",
+              "B",
+              "Magic weapon specialist"
+            ],
+            [
+              "Sentry Watchtower",
+              "A",
+              "Patient long-distance sharpshooting"
+            ]
+          ]
+        },
+        "subsections": [
+          {
+            "heading": "S Tier Towers",
+            "paragraphs": [
+              "Scholar Mage and Royal Catapult offer a straightforward starting damage core. Concentrate their useful coverage around a position where enemies can be held. If the map pulls fights far apart, rethink the placement plan before assuming that selecting both is sufficient."
+            ]
+          },
+          {
+            "heading": "A Tier Towers",
+            "paragraphs": [
+              "The A choices fill the practical gaps around your damage core. A barracks choice may be the first addition when the road will not stay controlled. A ranged option may deserve the next slot when your current selection lacks the right coverage. Judge the result as a team rather than five separate towers."
+            ]
+          },
+          {
+            "heading": "B Tier and Situational Towers",
+            "paragraphs": [
+              "The B group contains more specific utility and attack plans. Gold Prospectors, for example, needs a defense that can make use of its resource role. A specialist can move up in practical value if it fixes your exact problem, but adding one without a purpose makes the loadout harder to evaluate."
+            ]
+          }
+        ],
+        "links": [
+          {
+            "slug": "towers",
+            "label": "Towers"
+          }
+        ]
+      },
+      {
+        "id": "spell-tiers",
+        "heading": "Spell Tier List",
+        "paragraphs": [
+          "Spell rankings here prioritize a simple emergency plan: ground help, immediate damage and control. The spell letters are scenario-based editorial guidance rather than a comparison of cooldowns or damage values."
+        ],
+        "table": {
+          "caption": "Spell tier recommendations",
+          "columns": [
+            "Spell",
+            "Tier",
+            "Best for / reason"
+          ],
+          "rows": [
+            [
+              "Reinforcements",
+              "S",
+              "Summon help for the road"
+            ],
+            [
+              "Rain of Fire",
+              "S",
+              "Deal emergency fire damage"
+            ],
+            [
+              "Royal Edict",
+              "B",
+              "A royal command option"
+            ],
+            [
+              "Teleportation Sigil",
+              "A",
+              "Displace enemy troops"
+            ],
+            [
+              "Thunder Zapper",
+              "A",
+              "Lightning damage"
+            ],
+            [
+              "Ace Musketeers",
+              "A",
+              "Summon rifle-wielding allies"
+            ],
+            [
+              "Wintersong's Wrath",
+              "S",
+              "Freeze and hinder enemies"
+            ],
+            [
+              "Aspect of Sol",
+              "A",
+              "Summon a paladin ally"
+            ],
+            [
+              "Soaring Shop",
+              "B",
+              "A flying shop utility option"
+            ]
+          ]
+        },
+        "subsections": [
+          {
+            "heading": "S Tier Spells",
+            "paragraphs": [
+              "Reinforcements, Rain of Fire and Wintersong’s Wrath form an easy-to-understand role framework. Ground help, damage and control answer different problems. That distinction is why we recommend starting with their jobs rather than three spells chosen only for visual impact."
+            ]
+          },
+          {
+            "heading": "A Tier Spells",
+            "paragraphs": [
+              "Teleportation Sigil, Thunder Zapper, Ace Musketeers and Aspect of Sol are alternatives when displacement, lightning or summoned assistance better fits the stage. Compare the gap they solve with the spell you would remove. More options on paper do not guarantee a clearer response during a busy wave."
+            ]
+          },
+          {
+            "heading": "B Tier and Situational Spells",
+            "paragraphs": [
+              "Royal Edict and Soaring Shop are situational recommendations here. Read their current in-game descriptions and give them a concrete role before exchanging a familiar emergency tool. Their position reflects our preference for a simple first loadout, not an exact power calculation."
+            ]
+          }
+        ],
+        "links": [
+          {
+            "slug": "spells",
+            "label": "Spells"
+          }
+        ]
+      },
+      {
+        "id": "criteria",
+        "heading": "How We Rank Kingdom Rush 6 Picks",
+        "paragraphs": [
+          "We prioritize versatility, lane coverage, reliability, synergy and opportunity cost. A choice ranks well when it fits a clear job in a five-tower, two-hero, three-spell team without forcing the remaining slots to repair too many weaknesses. Ease of use also matters: a powerful idea that demands more attention than you can give it may not be your most reliable option.",
+          "Launch-window rankings are a starting framework. Different guides emphasize different combinations and can place the same hero in different tiers. Our table uses that uncertainty to favor roles and adaptable decisions. It does not claim a community vote or a mathematical consensus. Read the reason column as closely as the letter."
+        ]
+      },
+      {
+        "id": "stage-choice",
+        "heading": "The Best Loadout Depends on the Stage",
+        "paragraphs": [
+          "A shared choke rewards a different team from several separated lanes. A defensive specialist can be more valuable when the route lacks a safe holding point; additional damage can matter more once control is stable. Change one role after a failed attempt, then assess whether it solved the actual leak. For Classic Mode, start again from that mode’s restricted roster rather than importing this entire table."
+        ],
+        "links": [
+          {
+            "slug": "map-stages",
+            "label": "Map & Stages"
+          },
+          {
+            "slug": "classic-mode",
+            "label": "Classic Mode"
+          },
+          {
+            "slug": "",
+            "label": "Kingdom Rush 6 Guide"
+          }
+        ]
+      },
+      {
+        "id": "official-reference",
+        "heading": "Official Reference",
+        "externalLinks": [
+          {
+            "label": "Kingdom Rush 6: Genesis official website",
+            "url": "https://www.kingdomrushgenesis.com/"
+          },
+          {
+            "label": "Ironhide full lineup",
+            "url": "https://www.ironhidegames.com/News/Details/525"
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Who is the best hero in Kingdom Rush 6?",
+        "answer": "Ignus and Drakkan are our S-tier starting recommendations. The best partner depends on your stage and tower coverage."
+      },
+      {
+        "question": "What is the best tower?",
+        "answer": "Scholar Mage and Royal Catapult lead our normal-campaign recommendations, with complementary blocking and coverage still required."
+      },
+      {
+        "question": "What are the best spells?",
+        "answer": "We prioritize Reinforcements, Rain of Fire and Wintersong’s Wrath as a clear help, damage and control framework."
+      },
+      {
+        "question": "Does the tier list change by stage?",
+        "answer": "Yes. Stage layout, enemy mix, available upgrades and loadout synergy can change a pick’s practical value."
+      },
+      {
+        "question": "How many choices are in a normal loadout?",
+        "answer": "Five towers, two heroes and three spells."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "heroes",
+      "towers",
+      "spells",
+      "map-stages"
+    ],
+    "lastReviewed": "2026-10-01"
+  },
+  {
+    "enabled": true,
+    "slug": "classic-mode",
+    "pageType": "guide",
+    "navLabel": "Classic Mode",
+    "title": "Kingdom Rush 6 Classic Mode: Rules & Towers",
+    "description": "Learn Kingdom Rush 6 Classic Mode rules: one hero, four original tower lines, Rain of Fire and Reinforcements, plus how the mode changes strategy.",
+    "keywords": [
+      "kingdom rush 6 classic mode"
+    ],
+    "primaryKeyword": "kingdom rush 6 classic mode",
+    "secondaryKeywords": [],
+    "searchIntent": "Learn Kingdom Rush 6 Classic Mode rules: one hero, four original tower lines, Rain of Fire and Reinforcements, plus how the mode changes strategy.",
+    "priority": "P0",
+    "navVisible": true,
+    "parentSlug": "",
+    "wordCountTarget": 850,
+    "factsStatus": "verified",
+    "hero": {
+      "eyebrow": "Genesis guide",
+      "heading": "Kingdom Rush 6 Classic Mode",
+      "lead": "Kingdom Rush 6 Classic Mode uses one hero, classic towers only, and just Rain of Fire and Reinforcements. Its four original tower lines are Archer, Barracks, Mage and Artillery."
+    },
+    "sections": [
+      {
+        "id": "what-is-classic",
+        "heading": "What Is Classic Mode in Kingdom Rush 6?",
+        "paragraphs": [
+          "Classic Mode, also called Classic Rush, revisits Genesis campaign stages with the original Kingdom Rush arsenal. The point is to solve the map with a different set of tools. It is a mode within Genesis rather than a separate purchase or a separate game in this guide’s navigation.",
+          "The familiar four tower lines return with their original upgrade paths. At the same time, you have only one hero and the two iconic spells. That smaller set of choices changes how you prepare a defense. A normal Genesis strategy that relies on two heroes or a specialist tower must be reconsidered before it becomes a Classic strategy."
+        ]
+      },
+      {
+        "id": "rules",
+        "heading": "Kingdom Rush 6 Classic Mode Rules",
+        "paragraphs": [
+          "The essential restrictions are simple: one hero, classic towers only, and Rain of Fire plus Reinforcements. Do not treat this as a normal loadout with one hero removed. The tower selection and spell tools change too, so the complete plan needs to fit the mode."
+        ],
+        "table": {
+          "caption": "Main campaign and Classic comparison",
+          "columns": [
+            "Choice",
+            "Normal campaign",
+            "Classic Mode"
+          ],
+          "rows": [
+            [
+              "Heroes",
+              "2 selected heroes",
+              "1 hero"
+            ],
+            [
+              "Towers",
+              "5 selected Genesis towers",
+              "Original four tower lines"
+            ],
+            [
+              "Spells",
+              "3 selected spells",
+              "Rain of Fire and Reinforcements"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "classic-towers",
+        "heading": "All Classic Mode Towers",
+        "paragraphs": [
+          "Each row below is one original tower line. The first three names show the progression along that line; the last two are the final specialist choices. The twenty names are therefore a reference to upgrade paths, not twenty independent loadout slots."
+        ],
+        "table": {
+          "caption": "Classic tower lines",
+          "columns": [
+            "Line",
+            "Progression",
+            "Final specialists"
+          ],
+          "rows": [
+            [
+              "Archer",
+              "Archer Tower → Marksmen Tower → Sharpshooter Tower",
+              "Rangers Hideout / Musketeer Garrison"
+            ],
+            [
+              "Barracks",
+              "Militia Barracks → Footmen Barracks → Knights Barracks",
+              "Holy Order (Paladins) / Barbarian Hall"
+            ],
+            [
+              "Mage",
+              "Mage Tower → Adept Tower → Wizard Tower",
+              "Arcane Wizard / Sorcerer Mage"
+            ],
+            [
+              "Artillery",
+              "Dwarven Bombardier → Dwarven Artillery → Dwarven Howitzer",
+              "Tesla x104 / Big Bertha"
+            ]
+          ]
+        },
+        "subsections": [
+          {
+            "heading": "Archer Tower Line",
+            "paragraphs": [
+              "Archer Tower progresses through Marksmen Tower and Sharpshooter Tower, with Rangers Hideout and Musketeer Garrison as specialists. Keep ranged coverage in mind when planning this line. Choose the branch for the position you need it to serve rather than upgrading automatically because it was your favorite in a previous game."
+            ]
+          },
+          {
+            "heading": "Barracks Line",
+            "paragraphs": [
+              "Militia Barracks leads through Footmen Barracks and Knights Barracks to Holy Order (Paladins) or Barbarian Hall. The holding point deserves as much attention as the tower itself. Put a ground defense where nearby damage can support it, and consider what happens to that road when your single hero has to move away."
+            ]
+          },
+          {
+            "heading": "Mage Tower Line",
+            "paragraphs": [
+              "Mage Tower, Adept Tower and Wizard Tower lead to Arcane Wizard or Sorcerer Mage. Give magical coverage a place in the plan rather than relying on one attack style everywhere. The branch decision should follow the problem at that position and the support already available from other lines."
+            ]
+          },
+          {
+            "heading": "Artillery Tower Line",
+            "paragraphs": [
+              "Dwarven Bombardier, Dwarven Artillery and Dwarven Howitzer lead to Tesla x104 or Big Bertha. Think about where groups of ground enemies can remain under fire. An artillery position with little useful road coverage is less attractive than one that works with the rest of the defense."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "classic-spells",
+        "heading": "Classic Mode Spells",
+        "paragraphs": [
+          "Rain of Fire and Reinforcements are the available spells. You cannot simply bring the normal three-spell selection, so make sure your response plan does not depend on Teleportation Sigil or another Genesis option. With only two spells, using one because it is available can leave fewer answers when the road gets busy.",
+          "Give each spell a purpose before the stage starts. Reinforcements can be considered when the road needs extra help; Rain of Fire is the damage response. This is a timing framework rather than a fixed cast sequence. Watch what is actually happening in the lane and choose the response that addresses it."
+        ],
+        "links": [
+          {
+            "slug": "spells",
+            "label": "Spells"
+          }
+        ]
+      },
+      {
+        "id": "classic-heroes",
+        "heading": "Classic Mode Heroes",
+        "paragraphs": [
+          "You command a single hero. That hero cannot cover every separated road at the same time, so decide which position needs personal support and which ones should stand on their tower layout. If you choose a hero mainly for damage, make sure the classic tower lines supply enough ground control. If you choose a defensive hero, check whether the rest of the plan finishes enemies effectively."
+        ],
+        "links": [
+          {
+            "slug": "heroes",
+            "label": "Heroes"
+          }
+        ]
+      },
+      {
+        "id": "approach",
+        "heading": "How to Approach Classic Mode",
+        "paragraphs": [
+          "Begin by reading the map without assuming your normal Genesis selections are available. Identify shared firing positions, places where a barracks can hold the road under tower coverage, and routes that need their own support. Then decide where your one hero will spend most of the battle.",
+          "Avoid moving the hero merely because a different part of the screen looks busier. Ask whether leaving the current position creates a larger problem. A hero move is most useful when it answers something the towers cannot comfortably handle, while the old position remains stable.",
+          "When a run fails, separate selection, placement and timing. If the road was never controlled, changing a final tower branch may not solve the issue. If control was stable but enemies survived too long, reconsider the coverage around that position. If the defense only broke after both spells were used, review the moments when you spent them.",
+          "Classic Mode rewards understanding the four lines together. You do not need a different plan for every named tower in the table; you need a coherent set of positions that work with your hero and two spell responses. Use the campaign stage list to identify the map, then review the mode’s restrictions before retrying."
+        ],
+        "links": [
+          {
+            "slug": "map-stages",
+            "label": "Map & Stages"
+          },
+          {
+            "slug": "towers",
+            "label": "Towers"
+          },
+          {
+            "slug": "",
+            "label": "Kingdom Rush 6 Guide"
+          }
+        ]
+      },
+      {
+        "id": "official-reference",
+        "heading": "Official Reference",
+        "externalLinks": [
+          {
+            "label": "Ironhide Classic Mode rules and tower lineup",
+            "url": "https://www.ironhidegames.com/News/Details/504"
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "How many heroes does Classic Mode use?",
+        "answer": "One hero, compared with two in the normal campaign."
+      },
+      {
+        "question": "Which spells are allowed?",
+        "answer": "Rain of Fire and Reinforcements only."
+      },
+      {
+        "question": "What are the four classic tower lines?",
+        "answer": "Archer, Barracks, Mage and Artillery, each with its original progression and final specialists."
+      },
+      {
+        "question": "Is Classic Rush the same as Classic Mode?",
+        "answer": "These names refer to the classic arsenal mode in Kingdom Rush 6: Genesis."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "towers",
+      "heroes",
+      "spells",
+      "map-stages"
+    ],
+    "lastReviewed": "2026-10-01"
+  },
+  {
+    "enabled": true,
+    "slug": "map-stages",
+    "pageType": "list",
+    "navLabel": "Map & Stages",
+    "title": "Kingdom Rush 6 Map & Stages: All 18 Campaign Levels",
+    "description": "Explore the Kingdom Rush 6 campaign map and all 18 stages, including progression, regions, major boss stages, and practical stage-planning tips.",
+    "keywords": [
+      "kingdom rush 6 map stages"
+    ],
+    "primaryKeyword": "kingdom rush 6 map",
+    "secondaryKeywords": [],
+    "searchIntent": "Explore the Kingdom Rush 6 map and all 18 campaign stages in order, with boss-stage markers, progression tips, and game mode guidance.",
+    "priority": "P0",
+    "navVisible": true,
+    "parentSlug": "",
+    "wordCountTarget": 850,
+    "factsStatus": "verified",
+    "hero": {
+      "eyebrow": "Genesis guide",
+      "heading": "Kingdom Rush 6 Map and All 18 Stages",
+      "lead": "Kingdom Rush 6: Genesis has 18 campaign stages. Follow the complete stage order below, from Linirean Castle to Vez’nan’s Tower, with six boss encounters marked."
+    },
+    "sections": [
+      {
+        "id": "campaign-order",
+        "heading": "All 18 Kingdom Rush 6 Campaign Stages",
+        "paragraphs": [
+          "Use this numbered order to locate your next campaign battle. A boss marker identifies the named encounter on that stage; it does not describe the waves or prescribe a complete battle sequence."
+        ],
+        "table": {
+          "caption": "Campaign order: all 18 stages",
+          "columns": [
+            "Stage name",
+            "Number",
+            "Boss encounter"
+          ],
+          "rows": [
+            [
+              "Linirean Castle",
+              "1",
+              "—"
+            ],
+            [
+              "Arcane Academy",
+              "2",
+              "—"
+            ],
+            [
+              "Raided Farmlands",
+              "3",
+              "—"
+            ],
+            [
+              "Western Wall",
+              "4",
+              "—"
+            ],
+            [
+              "Silveroak Village",
+              "5",
+              "—"
+            ],
+            [
+              "Lozagon Tower",
+              "6",
+              "—"
+            ],
+            [
+              "Three-Side Ambush",
+              "7",
+              "—"
+            ],
+            [
+              "Fortress of Acaroth",
+              "8",
+              "Gor'Thok"
+            ],
+            [
+              "Path of Peril",
+              "9",
+              "—"
+            ],
+            [
+              "Abominable Lair",
+              "10",
+              "J.T."
+            ],
+            [
+              "Frostbite Nest",
+              "11",
+              "Sarelgaz"
+            ],
+            [
+              "Ha'kraj Village",
+              "12",
+              "—"
+            ],
+            [
+              "Stormcloud Halls",
+              "13",
+              "Moglok-Hai"
+            ],
+            [
+              "Brightwick Town",
+              "14",
+              "—"
+            ],
+            [
+              "Castle Blackburn",
+              "15",
+              "Lord Blackburn"
+            ],
+            [
+              "Golden Grove",
+              "16",
+              "—"
+            ],
+            [
+              "Paladin Enclave",
+              "17",
+              "—"
+            ],
+            [
+              "Vez'nan's Tower",
+              "18",
+              "Vez'nan"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "progression",
+        "heading": "Campaign Progression",
+        "paragraphs": [
+          "The campaign starts at Linirean Castle and ends at Vez’nan’s Tower. The order is a useful reference when you are comparing a guide with your campaign screen, especially when a familiar location name appears in discussion of several Kingdom Rush games. Use the stage number together with the Genesis name so that you are looking at the right battle.",
+          "Steam describes three campaign landscapes: the Citadel, the Stormcloud Depths and Arcania. Treat the full campaign as a sequence of changing defense problems, rather than eighteen copies of one road. The stage list tells you where a battle belongs; the route on screen tells you how to prepare your loadout.",
+          "Progression is not a reason to replace the entire team after every stage. Keep the roles that still work, and change the choice that answers a new gap. This makes it easier to understand what helped. Swapping both heroes, all five tower choices and all three spells together can leave you with a successful run but little understanding of why it succeeded."
+        ],
+        "subsections": [
+          {
+            "heading": "Early campaign",
+            "paragraphs": [
+              "Stages 1–8 run from Linirean Castle through Fortress of Acaroth. Use these battles to learn a clear division between holding a road, dealing damage and responding with spells. Before the first marked boss stage, check whether your setup works when your heroes are needed in different places rather than side by side."
+            ]
+          },
+          {
+            "heading": "Middle campaign",
+            "paragraphs": [
+              "Stages 9–13 run from Path of Peril through Stormcloud Halls. Three marked boss encounters sit in this part of the order. Approach each map separately: a loadout that handled the previous road may need different coverage or a different hero assignment. Keep a simple record of the role that caused a leak rather than guessing from the final result."
+            ]
+          },
+          {
+            "heading": "Late campaign",
+            "paragraphs": [
+              "Stages 14–18 begin at Brightwick Town and lead to Vez’nan’s Tower, with Castle Blackburn along the way. Before retrying, inspect the full path and the available building positions. Late progression is a useful moment to review the whole team, but the most effective change can still be one carefully chosen slot."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "boss-stages",
+        "heading": "Boss Stages in the Campaign",
+        "paragraphs": [
+          "The six marked encounters are Gor’Thok at stage 8, J.T. at stage 10, Sarelgaz at stage 11, Moglok-Hai at stage 13, Lord Blackburn at stage 15 and Vez’nan at stage 18. The table keeps them attached to their campaign positions so you can locate the battle without navigating to separate boss pages. Boss names appear here as a reference; the surrounding route still needs a complete defense plan."
+        ]
+      },
+      {
+        "id": "planning",
+        "heading": "How to Plan a Stage Loadout",
+        "paragraphs": [
+          "First read the road from entrances to exits. Identify where routes meet, where they stay separate, and which building positions can contribute to more than one fight. A position that looks central on the screen is not necessarily the one with the most useful road coverage.",
+          "Next assign a job to every selected tower. The normal loadout gives you five tower types, so duplicates need to earn their place. Check that the plan has a way to control ground enemies, useful damage coverage and a response to threats that the main attack style handles poorly. Choose specialists for a map problem you can name.",
+          "Then choose the two heroes around what those towers leave uncovered. Decide which hero stays near the main defense and which one moves when another route needs attention. If you expect both heroes to leave the same position frequently, make sure that position can stand on its tower support.",
+          "Finally, choose three spells with distinct jobs. If a spell is meant to save a leak, keep watching the lane where that leak is most likely. Using every emergency response in the same early fight can leave you with no clear answer later. The aim is a repeatable defense, not a memorable single cast.",
+          "After a failed attempt, identify where the first problem began. Was the holding point outside useful coverage? Did a separate lane have no hero assigned? Did the team depend on a spell that had already been spent? Fix that cause before changing several unrelated choices."
+        ],
+        "links": [
+          {
+            "slug": "heroes",
+            "label": "Heroes"
+          },
+          {
+            "slug": "towers",
+            "label": "Towers"
+          },
+          {
+            "slug": "spells",
+            "label": "Spells"
+          },
+          {
+            "slug": "tier-list",
+            "label": "Tier List"
+          }
+        ]
+      },
+      {
+        "id": "modes",
+        "heading": "Game Modes Across the Campaign",
+        "paragraphs": [
+          "Beyond the campaign, Genesis offers Iron Challenge, Blitz Challenge, Hero Party, Spell Rush and Classic Mode. These change the rules of preparation. Hero Party uses four heroes and no spells; Spell Rush removes heroes and emphasizes faster spells. Classic Mode uses one hero and the original tower lines with Rain of Fire and Reinforcements. Recheck the chosen mode before using a normal-campaign loadout as your starting plan."
+        ],
+        "links": [
+          {
+            "slug": "classic-mode",
+            "label": "Classic Mode"
+          },
+          {
+            "slug": "",
+            "label": "Kingdom Rush 6 Guide"
+          }
+        ]
+      },
+      {
+        "id": "official-reference",
+        "heading": "Official Reference",
+        "externalLinks": [
+          {
+            "label": "Official campaign map reveal",
+            "url": "https://www.ironhidegames.com/News/Details/520"
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "How many campaign stages are in Kingdom Rush 6?",
+        "answer": "There are 18 campaign stages in the launch campaign."
+      },
+      {
+        "question": "What is the first stage?",
+        "answer": "Linirean Castle is stage 1."
+      },
+      {
+        "question": "What is the last stage?",
+        "answer": "Vez’nan’s Tower is stage 18."
+      },
+      {
+        "question": "Which stages have bosses?",
+        "answer": "Stages 8, 10, 11, 13, 15 and 18 have the six marked boss encounters."
+      },
+      {
+        "question": "Does this list include separate stage guides?",
+        "answer": "The full campaign order is kept on this page. Use the related hero, tower and spell guides to plan a loadout."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "heroes",
+      "towers",
+      "tier-list",
+      "classic-mode"
+    ],
+    "lastReviewed": "2026-10-01"
+  },
+  {
+    "enabled": true,
+    "slug": "release-date",
+    "pageType": "guide",
+    "navLabel": "Release Date",
+    "title": "Kingdom Rush 6 Release Date, Platforms & Price",
+    "description": "Kingdom Rush 6 released September 24, 2026. See current PC, iOS and Android availability, store links, launch status, and price-check guidance.",
+    "keywords": [
+      "kingdom rush 6 release date"
+    ],
+    "primaryKeyword": "kingdom rush 6 release date",
+    "secondaryKeywords": [],
+    "searchIntent": "Kingdom Rush 6 released September 24, 2026. See current PC, iOS and Android availability, store links, launch status, and price-check guidance.",
+    "priority": "P0",
+    "navVisible": true,
+    "parentSlug": "",
+    "wordCountTarget": 850,
+    "factsStatus": "verified",
+    "hero": {
+      "eyebrow": "Genesis guide",
+      "heading": "Kingdom Rush 6 Release Date and Platforms",
+      "lead": "Kingdom Rush 6: Genesis released on September 24, 2026. It is available on Steam for PC, the App Store for iOS, and Google Play for Android. The pre-release Steam demo ended July 6, 2026."
+    },
+    "sections": [
+      {
+        "id": "stores",
+        "heading": "Where to Play Kingdom Rush 6",
+        "paragraphs": [
+          "Use the official store for your platform. The Steam title is Kingdom Rush 6: Genesis TD; the game is also available for iPhone and iPad through the App Store and for Android through Google Play."
+        ],
+        "subsections": [
+          {
+            "heading": "Steam / PC",
+            "paragraphs": [
+              "Open the Steam listing to check current compatibility, system requirements, supported languages and the purchase options shown for your region. The PC listing is the right place to check whether your computer meets the current requirements. A general platform label on a guide cannot replace the store’s operating system and hardware details."
+            ]
+          },
+          {
+            "heading": "iPhone and iPad",
+            "paragraphs": [
+              "The App Store listing provides the current device and operating system requirements for iOS. Check those details on the device you intend to use, and read the purchase information before buying. The mobile store’s description and any in-app purchase disclosures apply to that platform; do not assume that the PC package describes every mobile purchase option."
+            ]
+          },
+          {
+            "heading": "Android",
+            "paragraphs": [
+              "Use the official Google Play listing from Ironhide Game Studio. Check device compatibility and the purchase information shown in your account’s region. If a listing is unavailable for your device, use the store or publisher’s support information rather than looking for an unofficial installer."
+            ]
+          }
+        ],
+        "externalLinks": [
+          {
+            "label": "Steam — PC",
+            "url": "https://store.steampowered.com/app/4259190/Kingdom_Rush_6_Genesis_TD/"
+          },
+          {
+            "label": "App Store — iPhone and iPad",
+            "url": "https://apps.apple.com/us/app/kingdom-rush-6-genesis-td/id6759664029"
+          },
+          {
+            "label": "Google Play — Android",
+            "url": "https://play.google.com/store/apps/details?id=com.ironhidegames.android.kingdomrush6.genesis"
+          }
+        ]
+      },
+      {
+        "id": "date",
+        "heading": "Kingdom Rush 6 Release Date",
+        "paragraphs": [
+          "Kingdom Rush 6: Genesis released on September 24, 2026. It is already available; the launch date is not a future release window. Genesis is the sixth numbered Kingdom Rush game, even though its story takes players back to earlier events in the kingdom.",
+          "When comparing a search result with a store, pay attention to the date and tense of the page. Development announcements naturally discuss wishlists and pre-orders, while a current store page shows the released game. For a purchase decision, use the live store listing and the publisher’s current game page rather than an old announcement."
+        ]
+      },
+      {
+        "id": "price",
+        "heading": "Kingdom Rush 6 Price",
+        "paragraphs": [
+          "Pricing may vary by region and platform, and promotions may change. Check the official store for the current price in your currency. This guide does not keep a fixed price or discount because a figure from one storefront can be misleading for a reader using another region or device.",
+          "Before confirming a purchase, check exactly what the store is selling. A game listing, a bundle and an optional in-app purchase are different purchase choices. Read the current description and store disclosures so that you understand the selected product. The guide’s launch roster count describes the game’s roster, not a promise about which characters a particular mobile purchase unlocks.",
+          "If you are comparing PC and mobile, compare the total purchase you intend to make rather than only the first number on each page. Use the current store’s information about optional purchases and included content. Also consider where you want to play: a lower displayed price is less useful if the device or operating system is not supported.",
+          "Keep the currency, region and date together when sharing a price with another player. An introductory offer can expire, and taxes or store account settings can affect what a buyer sees. Reopen the store before buying rather than relying on a price copied into a guide or search snippet."
+        ]
+      },
+      {
+        "id": "demo",
+        "heading": "Is the Kingdom Rush 6 Demo Still Available?",
+        "paragraphs": [
+          "The pre-release Steam demo ended on July 6, 2026. It was a preview ahead of the September launch, not the current full release. Old videos and walkthroughs can still discuss the demo, but that does not mean the same download is still available.",
+          "Use the live Steam listing for current purchase and download options. Do not confuse an old demo announcement with a free version of the released game. A guide or trailer can help you understand the style of play, while the official storefront tells you what is available to install now."
+        ]
+      },
+      {
+        "id": "launch-content",
+        "heading": "What You Get at Launch",
+        "paragraphs": [
+          "The launch lineup is 12 heroes, 15 towers, 9 spells and 18 campaign stages. A normal battle uses two heroes, five selected tower types and three equipped spells. Challenge modes change the rules, and Classic Mode returns to the original four tower lines with one hero and two classic spells."
+        ],
+        "table": {
+          "caption": "Launch overview",
+          "columns": [
+            "Feature",
+            "Launch scale"
+          ],
+          "rows": [
+            [
+              "Heroes",
+              "12"
+            ],
+            [
+              "Towers",
+              "15"
+            ],
+            [
+              "Spells",
+              "9"
+            ],
+            [
+              "Campaign stages",
+              "18"
+            ]
+          ]
+        },
+        "links": [
+          {
+            "slug": "heroes",
+            "label": "Heroes"
+          },
+          {
+            "slug": "towers",
+            "label": "Towers"
+          },
+          {
+            "slug": "spells",
+            "label": "Spells"
+          },
+          {
+            "slug": "map-stages",
+            "label": "Map & Stages"
+          }
+        ]
+      },
+      {
+        "id": "before-buying",
+        "heading": "Before You Choose a Platform",
+        "paragraphs": [
+          "Start with device compatibility, then compare the store’s current purchase details. Check available languages if you plan to play in a particular language, and review the operating system requirements if your computer or phone is older. These details belong to the live storefront because they can change with updates.",
+          "If you already play other Kingdom Rush games, make sure the title says Genesis or Kingdom Rush 6: Genesis TD. Alliance, Vengeance and the original Kingdom Rush are separate games. Familiar art or returning characters are not enough to identify the product.",
+          "Once you have the game, use the map page to follow the campaign order and the roster pages to understand your choices. You do not need a perfect tier-list team before beginning. A clear plan for towers, heroes and spells is a more useful starting point than trying to reproduce every high-ranked selection at once."
+        ],
+        "links": [
+          {
+            "slug": "",
+            "label": "Kingdom Rush 6 Guide"
+          },
+          {
+            "slug": "map-stages",
+            "label": "Map & Stages"
+          },
+          {
+            "slug": "heroes",
+            "label": "Heroes"
+          },
+          {
+            "slug": "towers",
+            "label": "Towers"
+          }
+        ]
+      },
+      {
+        "id": "official-reference",
+        "heading": "Official Reference",
+        "externalLinks": [
+          {
+            "label": "Ironhide game page",
+            "url": "https://www.ironhidegames.com/Games/kingdom-rush-genesis"
+          },
+          {
+            "label": "Steam demo closure announcement",
+            "url": "https://www.ironhidegames.com/News/Details/499"
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Is Kingdom Rush 6 out now?",
+        "answer": "Yes. Kingdom Rush 6: Genesis released on September 24, 2026."
+      },
+      {
+        "question": "What platforms is Kingdom Rush 6 on?",
+        "answer": "PC through Steam, iOS through the App Store, and Android through Google Play."
+      },
+      {
+        "question": "What is the Steam title?",
+        "answer": "Kingdom Rush 6: Genesis TD."
+      },
+      {
+        "question": "What is the current price?",
+        "answer": "Check the official store in your region. Prices, currencies and promotions vary."
+      },
+      {
+        "question": "Is the pre-release Steam demo available?",
+        "answer": "That demo ended July 6, 2026. Use the current Steam listing for available download options."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "map-stages",
+      "heroes",
+      "towers",
+      "spells"
+    ],
+    "lastReviewed": "2026-10-01"
+  },
+  {
+    "enabled": true,
+    "slug": "spells",
+    "pageType": "list",
+    "navLabel": "Spells",
+    "title": "Kingdom Rush 6 Spells: All 9 Spells & Best Uses",
+    "description": "See all 9 Kingdom Rush 6: Genesis spells, what each one does, how three-spell loadouts work, and which spell roles fit different battle situations.",
+    "keywords": [
+      "kingdom rush 6 spells"
+    ],
+    "primaryKeyword": "kingdom rush 6 spells",
+    "secondaryKeywords": [],
+    "searchIntent": "See all 9 Kingdom Rush 6: Genesis spells, what each one does, how three-spell loadouts work, and which spell roles fit different battle situations.",
+    "priority": "P0",
+    "navVisible": true,
+    "parentSlug": "",
+    "wordCountTarget": 850,
+    "factsStatus": "verified",
+    "hero": {
+      "eyebrow": "Genesis guide",
+      "heading": "Kingdom Rush 6 Spells",
+      "lead": "Kingdom Rush 6: Genesis has 9 spells, and you equip 3 spells for a normal loadout. Classic Mode limits your spell choices to Rain of Fire and Reinforcements."
+    },
+    "sections": [
+      {
+        "id": "spell-list",
+        "heading": "All 9 Kingdom Rush 6 Spells",
+        "paragraphs": [
+          "These are the nine spell names in the current Genesis lineup. Soaring Shop is the current official-site name. It was called Gnome’s Shop in an earlier official lineup post; older guides may therefore use that name for the shop option."
+        ],
+        "table": {
+          "caption": "All 9 spells",
+          "columns": [
+            "Spell",
+            "Role or identity"
+          ],
+          "rows": [
+            [
+              "Reinforcements",
+              "Summon help for the road"
+            ],
+            [
+              "Rain of Fire",
+              "Deal emergency fire damage"
+            ],
+            [
+              "Royal Edict",
+              "A royal command option"
+            ],
+            [
+              "Teleportation Sigil",
+              "Displace enemy troops"
+            ],
+            [
+              "Thunder Zapper",
+              "Lightning damage"
+            ],
+            [
+              "Ace Musketeers",
+              "Summon rifle-wielding allies"
+            ],
+            [
+              "Wintersong's Wrath",
+              "Freeze and hinder enemies"
+            ],
+            [
+              "Aspect of Sol",
+              "Summon a paladin ally"
+            ],
+            [
+              "Soaring Shop",
+              "A flying shop utility option"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "three-spells",
+        "heading": "How the Three-Spell Loadout Works",
+        "paragraphs": [
+          "For a normal loadout, you equip three spells. Select them alongside the five towers and two heroes rather than after choosing an otherwise complete team. A spell slot should have a job you can recognize during the battle: help a ground position, answer a crowded road, or control a dangerous group.",
+          "Three spells with overlapping purposes can make the bar look powerful while leaving the same weakness unresolved. If the defense already handles a group comfortably, another response for that same group may be less useful than a tool for the lane where you tend to lose control. Plan the selection around the actual map and the roles already supplied by your towers.",
+          "Timing is part of selection. Before starting, decide what situation should make you use each spell. That does not mean following a fixed sequence. It means knowing the problem a spell is meant to answer, so you do not spend an important response simply because its button is available."
+        ]
+      },
+      {
+        "id": "spell-roles",
+        "heading": "Kingdom Rush 6 Spell Roles",
+        "paragraphs": [],
+        "subsections": [
+          {
+            "heading": "Damage spells",
+            "paragraphs": [
+              "Rain of Fire is the familiar emergency damage option, and Thunder Zapper brings lightning. Use a damage spell when it changes the outcome of the fight, not just when several enemies are visible. A strong defensive position can make a damage response easier to aim at a meaningful group. Exact damage and cooldown values belong to the current in-game descriptions."
+            ]
+          },
+          {
+            "heading": "Summon and reinforcement spells",
+            "paragraphs": [
+              "Reinforcements, Ace Musketeers and Aspect of Sol bring assistance onto the battlefield. Consider what that assistance needs to accomplish and where the rest of your defense can support it. A summoned ally and a damage cast are different tools; choose the one that solves the road problem rather than assuming every spell should simply remove enemies instantly."
+            ]
+          },
+          {
+            "heading": "Control and utility spells",
+            "paragraphs": [
+              "Teleportation Sigil displaces enemies, while Wintersong’s Wrath freezes and hinders them. They can be considered when you want more time or a different arrangement of enemies for your defense to handle. Royal Edict and Soaring Shop round out the lineup with distinct identities; read their current descriptions when planning a specialist slot instead of guessing their effects from the names."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "choose-three",
+        "heading": "How to Choose Three Spells",
+        "paragraphs": [
+          "Start by checking the weakest part of your current team. If ground control disappears when the heroes move, a help-oriented spell deserves consideration. If a group remains alive too long inside your coverage, a damage response may fit. If the team needs more time to finish a dangerous group, control may be the missing role.",
+          "As an editorial starting framework, compare Reinforcements, Rain of Fire and Wintersong’s Wrath. Their different jobs make the plan easy to understand. You can replace a role when the stage calls for another solution; this is not a claim that those three are always the best available choices.",
+          "Give the alternative a specific reason. Teleportation Sigil is worth evaluating when displacement fits your plan, while a summoned ally can fit a defense that needs another body or another source of pressure. The useful question is what the replacement does for the whole team and what you lose by removing the old spell.",
+          "Watch how the loadout behaves after a few casts. If you keep spending two spells on the same problem, the permanent tower coverage may need work. Spells can rescue a fight, but using all of them to repeatedly cover one weak position makes other lanes harder to manage. Fix the underlying arrangement as well as reviewing the bar."
+        ],
+        "links": [
+          {
+            "slug": "heroes",
+            "label": "Heroes"
+          },
+          {
+            "slug": "towers",
+            "label": "Towers"
+          }
+        ]
+      },
+      {
+        "id": "mode-spells",
+        "heading": "Spells in Spell Rush and Classic Mode",
+        "paragraphs": [
+          "Spell Rush removes heroes and gives you faster spells. Your tower and spell choices therefore take on jobs that a normal two-hero team could cover. Plan the permanent positions first, then decide where the spell responses fit; a normal loadout copied without its heroes can leave unexpected gaps.",
+          "Classic Mode uses only Rain of Fire and Reinforcements. There is no normal third spell slot to fill with another Genesis choice. A control-heavy normal strategy needs a different plan when that control spell is unavailable. Hero Party goes in the other direction: it uses four heroes and no spells, so a spell recommendation does not apply to that mode."
+        ],
+        "links": [
+          {
+            "slug": "classic-mode",
+            "label": "Classic Mode"
+          }
+        ]
+      },
+      {
+        "id": "best-spells",
+        "heading": "Best Kingdom Rush 6 Spells",
+        "paragraphs": [
+          "Our tier list favors a clear damage, help and control framework for a first normal loadout. That approach makes it easier to recognize which response a fight needs. A different map, hero pair or tower selection can make another spell a better fit. Read the scenario and role notes rather than treating the ranking as a fixed cast order."
+        ],
+        "links": [
+          {
+            "slug": "tier-list",
+            "label": "Tier List"
+          },
+          {
+            "slug": "",
+            "label": "Kingdom Rush 6 Guide"
+          }
+        ]
+      },
+      {
+        "id": "official-reference",
+        "heading": "Official Reference",
+        "externalLinks": [
+          {
+            "label": "Kingdom Rush 6: Genesis official website",
+            "url": "https://www.kingdomrushgenesis.com/"
+          },
+          {
+            "label": "Ironhide full lineup",
+            "url": "https://www.ironhidegames.com/News/Details/525"
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "How many spells are in Kingdom Rush 6?",
+        "answer": "There are nine spells in the launch lineup."
+      },
+      {
+        "question": "How many spells can you equip?",
+        "answer": "A normal loadout uses three equipped spells."
+      },
+      {
+        "question": "Is Soaring Shop the same name as Gnome’s Shop?",
+        "answer": "The current official site uses Soaring Shop. An earlier official lineup post called the shop spell Gnome’s Shop."
+      },
+      {
+        "question": "Which spells are available in Classic Mode?",
+        "answer": "Rain of Fire and Reinforcements only."
+      },
+      {
+        "question": "Are there heroes in Spell Rush?",
+        "answer": "No. Spell Rush uses towers and faster spells without heroes."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "tier-list",
+      "heroes",
+      "towers",
+      "classic-mode"
+    ],
+    "lastReviewed": "2026-10-01"
+  }
+]

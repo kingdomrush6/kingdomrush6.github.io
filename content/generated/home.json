@@ -1,0 +1,383 @@
+{
+  "enabled": true,
+  "slug": "",
+  "pageType": "home",
+  "title": "Kingdom Rush 6 Guide: Heroes, Towers & Tier List",
+  "description": "Kingdom Rush 6: Genesis guide with all 12 heroes, 15 towers, 9 spells, Classic Mode rules, 18 stages, tier lists, release details, and more.",
+  "keywords": [
+    "kingdom rush 6",
+    "kingdom rush 6 genesis",
+    "kingdom rush genesis",
+    "kingdom rush 6 guide",
+    "kingdom rush 6 wiki"
+  ],
+  "primaryKeyword": "kingdom rush 6",
+  "secondaryKeywords": [
+    "kingdom rush 6 genesis",
+    "kingdom rush genesis"
+  ],
+  "searchIntent": "Game identity, released status, roster counts and guide navigation",
+  "priority": "P0",
+  "navVisible": true,
+  "wordCountTarget": 1400,
+  "factsStatus": "verified",
+  "hero": {
+    "eyebrow": "Independent Genesis guide",
+    "heading": "Kingdom Rush 6: Genesis Guide",
+    "lead": "Kingdom Rush 6: Genesis is Ironhide Game Studio’s sixth numbered Kingdom Rush game, a fantasy tower defense strategy game released September 24, 2026.",
+    "supportingText": "12 heroes · 15 towers · 9 spells · 18 campaign stages. Available on PC via Steam, iOS and Android.",
+    "primaryLink": {
+      "label": "Explore Heroes",
+      "slug": "heroes"
+    },
+    "secondaryLink": {
+      "label": "Official Website",
+      "url": "https://www.kingdomrushgenesis.com/"
+    }
+  },
+  "sections": [
+    {
+      "id": "quick-facts",
+      "heading": "Kingdom Rush 6: Genesis at a Glance",
+      "paragraphs": [
+        "Genesis is the sixth numbered game in the Kingdom Rush series. Its story returns to earlier days of the kingdom, but the game itself is the current sixth entry. Steam lists it as Kingdom Rush 6: Genesis TD. This independent guide brings the roster, campaign order and mode rules together so you can move from a quick answer to the part of the game you want to understand."
+      ],
+      "table": {
+        "caption": "Quick facts",
+        "columns": [
+          "Feature",
+          "Answer"
+        ],
+        "rows": [
+          [
+            "Developer and publisher",
+            "Ironhide Game Studio"
+          ],
+          [
+            "Release date",
+            "September 24, 2026"
+          ],
+          [
+            "Platforms",
+            "PC (Steam), iOS, Android"
+          ],
+          [
+            "Genre",
+            "Fantasy tower defense strategy"
+          ],
+          [
+            "Heroes",
+            "12; two in a normal battle"
+          ],
+          [
+            "Towers",
+            "15; five selected types"
+          ],
+          [
+            "Spells",
+            "9; three equipped"
+          ],
+          [
+            "Campaign",
+            "18 stages"
+          ]
+        ]
+      },
+      "subsections": [
+        {
+          "heading": "Release Date and Platforms",
+          "paragraphs": [
+            "The game is already available on Steam, the App Store and Google Play. Use the release page to find the official stores and check the current purchase options for your region. The pre-release Steam demo ended July 6, 2026; older preview coverage should not be mistaken for a current free download."
+          ]
+        },
+        {
+          "heading": "12 Heroes, 15 Towers, 9 Spells",
+          "paragraphs": [
+            "The roster numbers describe the launch lineup. A normal battle draws a smaller team from it: two heroes, five tower types and three spells. The interesting decision is how those choices work together. One strong selection does not automatically answer every lane or every threat in a stage."
+          ]
+        },
+        {
+          "heading": "18 Campaign Stages",
+          "paragraphs": [
+            "The campaign runs from Linirean Castle to Vez’nan’s Tower. Our map page keeps all eighteen stages in order and marks the six boss encounters. Use it to identify a battle, then use the roster guides to prepare the tools you want to take into it."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "guides",
+      "heading": "Kingdom Rush 6 Guides",
+      "paragraphs": [
+        "Choose a guide for the question you are trying to answer. The roster pages explain the available choices, the tier list helps narrow a loadout, the Classic guide covers its restrictions, and the release page provides current platform and store guidance."
+      ],
+      "links": [
+        {
+          "slug": "heroes",
+          "label": "Heroes",
+          "description": "Meet all 12 Kingdom Rush 6: Genesis heroes. See each hero’s role, strengths, pairing ideas, and how to choose two heroes for different stages."
+        },
+        {
+          "slug": "towers",
+          "label": "Towers",
+          "description": "See all 15 Kingdom Rush 6: Genesis towers, what each tower is built to do, how five-tower loadouts work, and which roles fit different stages."
+        },
+        {
+          "slug": "tier-list",
+          "label": "Tier List",
+          "description": "Kingdom Rush 6 tier list for heroes, towers, and spells, with role-based rankings, pairing logic, and clear notes on when each pick works best."
+        },
+        {
+          "slug": "classic-mode",
+          "label": "Classic Mode",
+          "description": "Learn Kingdom Rush 6 Classic Mode rules: one hero, four original tower lines, Rain of Fire and Reinforcements, plus how the mode changes strategy."
+        },
+        {
+          "slug": "map-stages",
+          "label": "Map & Stages",
+          "description": "Explore the Kingdom Rush 6 map and all 18 campaign stages in order, with boss-stage markers, progression tips, and game mode guidance."
+        },
+        {
+          "slug": "release-date",
+          "label": "Release Date",
+          "description": "Kingdom Rush 6 released September 24, 2026. See current PC, iOS and Android availability, store links, launch status, and price-check guidance."
+        },
+        {
+          "slug": "spells",
+          "label": "Spells",
+          "description": "See all 9 Kingdom Rush 6: Genesis spells, what each one does, how three-spell loadouts work, and which spell roles fit different battle situations."
+        }
+      ]
+    },
+    {
+      "id": "start",
+      "heading": "Start with Heroes, Towers and Spells",
+      "paragraphs": [],
+      "subsections": [
+        {
+          "heading": "Heroes",
+          "paragraphs": [
+            "Two heroes give you room for complementary jobs. A ground anchor and a damage partner is one useful starting framework; on a split map, you may instead divide responsibility between two roads. Before changing heroes, ask whether the current pair has a clear assignment. Sending both into the same fight can leave another lane with less support than intended."
+          ]
+        },
+        {
+          "heading": "Towers",
+          "paragraphs": [
+            "The five-tower loadout is a selection of types you can use during the battle. Give every slot a purpose: coverage, control, damage or a specialist contribution. The fifteen-tower page distinguishes those broad jobs and explains why duplicating a favorite role can leave a gap. Tower placement still matters after the selection is made."
+          ]
+        },
+        {
+          "heading": "Spells",
+          "paragraphs": [
+            "Three equipped spells should give you responses you can recognize under pressure. Consider a help role, a damage role and a control role before choosing three similar tools. The spell guide lists all nine names, explains the Soaring Shop naming change, and separates normal selection from the restrictions of other modes."
+          ]
+        }
+      ],
+      "links": [
+        {
+          "slug": "heroes",
+          "label": "Heroes"
+        },
+        {
+          "slug": "towers",
+          "label": "Towers"
+        },
+        {
+          "slug": "spells",
+          "label": "Spells"
+        }
+      ]
+    },
+    {
+      "id": "loadout",
+      "heading": "Kingdom Rush 6 Tier List and Loadout Choices",
+      "paragraphs": [
+        "A useful loadout is a team of answers. Start with the stage’s roads and decide where enemies need to be held, where damage can overlap and which lane requires a movable response. Choose the roster around that plan, then use the tier list to compare candidates for each job.",
+        "Rankings are editorial guidance. Stage layout, enemy mix and loadout synergy can change a choice’s value. A specialist that solves your exact problem may contribute more than a highly ranked selection that duplicates a job already covered. The letter beside a name is a starting recommendation, not a guarantee that it belongs in every team."
+      ],
+      "subsections": [
+        {
+          "heading": "Hero choices",
+          "paragraphs": [
+            "Our launch-window rankings use Ignus and Drakkan as strong damage candidates while keeping complementary ground and support options in view. Decide what the second hero needs to do before choosing it. If the towers already cover the main fight comfortably, a hero assigned elsewhere can be more useful than stacking both beside the same position."
+          ]
+        },
+        {
+          "heading": "Tower choices",
+          "paragraphs": [
+            "Scholar Mage and Royal Catapult are useful starting references for a damage core. Add the coverage and blocking that lets the core work, then choose a specialist for a reason. A tower does not earn a slot solely because it ranks well in isolation; its placement and contribution to the other selected towers matter."
+          ]
+        },
+        {
+          "heading": "Spell choices",
+          "paragraphs": [
+            "Reinforcements, Rain of Fire and Wintersong’s Wrath offer a clear starting role framework. You can adjust those jobs when displacement or summoned assistance fits better. Read the mode rules first: a normal three-spell plan cannot be used unchanged in Classic Mode or Hero Party."
+          ]
+        }
+      ],
+      "links": [
+        {
+          "slug": "tier-list",
+          "label": "Tier List"
+        }
+      ]
+    },
+    {
+      "id": "campaign",
+      "heading": "Campaign Map and All 18 Stages",
+      "paragraphs": [
+        "The stage list is organized by campaign number so you can quickly locate a battle without opening eighteen separate pages. It begins at Linirean Castle, passes through places such as Arcane Academy and Fortress of Acaroth, and ends at Vez’nan’s Tower. Boss encounters are marked at stages 8, 10, 11, 13, 15 and 18.",
+        "Approach progression as a sequence of maps to read, not a reason to discard every previous choice. Keep a role that still works and adjust the one that is missing. That makes a retry easier to evaluate. If you change the whole army at once, you may not learn which part fixed the defense."
+      ],
+      "subsections": [
+        {
+          "heading": "Early campaign",
+          "paragraphs": [
+            "Use the opening stages to learn where to hold the road and how to assign the hero pair. Watch whether towers share useful coverage, whether a ground unit has support and whether another lane is relying entirely on an emergency spell."
+          ]
+        },
+        {
+          "heading": "Middle campaign",
+          "paragraphs": [
+            "Recheck the route as the campaign moves beyond Fortress of Acaroth. A setup that worked at one choke may be less comfortable across separate paths. Before retrying, identify the first place where the defense lost control and choose a response for that specific cause."
+          ]
+        },
+        {
+          "heading": "Late campaign",
+          "paragraphs": [
+            "The final run from Brightwick Town to Vez’nan’s Tower includes Castle Blackburn, Golden Grove and Paladin Enclave. Review the whole team before a new map, but prefer a targeted adjustment when only one job is failing. Keep the hero and spell plans as clear as the tower plan."
+          ]
+        }
+      ],
+      "links": [
+        {
+          "slug": "map-stages",
+          "label": "Map & Stages"
+        }
+      ]
+    },
+    {
+      "id": "modes",
+      "heading": "Kingdom Rush 6 Game Modes",
+      "paragraphs": [
+        "Different modes change the tools available to you. Read the chosen mode’s rules before treating a normal-campaign recommendation as a complete plan."
+      ],
+      "subsections": [
+        {
+          "heading": "Iron Challenge",
+          "paragraphs": [
+            "Iron Challenge concentrates the defense into a single elite wave. Think carefully about placement and when to use your responses rather than treating it as another long campaign run."
+          ]
+        },
+        {
+          "heading": "Blitz Challenge",
+          "paragraphs": [
+            "Blitz changes the pace of the fight. Review the mode’s on-screen rules and choose a setup whose jobs you can manage quickly. Familiarity with your selected tools can matter as much as a complicated combination."
+          ]
+        },
+        {
+          "heading": "Hero Party",
+          "paragraphs": [
+            "Hero Party uses four heroes and no spells. Divide their responsibilities across the road, and remember that there is no spell bar to supply your usual emergency response."
+          ]
+        },
+        {
+          "heading": "Spell Rush",
+          "paragraphs": [
+            "Spell Rush removes heroes and gives you faster spells. Your permanent tower arrangement and spell plan must cover the responsibilities a normal hero pair would otherwise handle."
+          ]
+        },
+        {
+          "heading": "Classic Mode",
+          "paragraphs": [
+            "Classic Mode uses one hero, the original Archer, Barracks, Mage and Artillery lines, and only Rain of Fire and Reinforcements. The guide lists all twenty names along the four upgrade paths and compares the restrictions with normal Genesis loadouts."
+          ]
+        }
+      ],
+      "links": [
+        {
+          "slug": "classic-mode",
+          "label": "Classic Mode"
+        },
+        {
+          "slug": "spells",
+          "label": "Spells"
+        }
+      ]
+    },
+    {
+      "id": "release",
+      "heading": "Release, Platforms and Demo Status",
+      "paragraphs": [
+        "Kingdom Rush 6 released on September 24, 2026, for PC via Steam, iOS via the App Store and Android via Google Play. Check the official store’s current compatibility, pricing and purchase details before buying. Prices and promotions can vary by region and platform. The Steam preview demo ended on July 6, 2026; use the released game’s current listing for available options."
+      ],
+      "links": [
+        {
+          "slug": "release-date",
+          "label": "Release Date"
+        }
+      ]
+    },
+    {
+      "id": "official-reference",
+      "heading": "Official Game Information",
+      "externalLinks": [
+        {
+          "label": "Kingdom Rush 6 official website",
+          "url": "https://www.kingdomrushgenesis.com/"
+        },
+        {
+          "label": "Steam — PC",
+          "url": "https://store.steampowered.com/app/4259190/Kingdom_Rush_6_Genesis_TD/"
+        },
+        {
+          "label": "App Store — iPhone and iPad",
+          "url": "https://apps.apple.com/us/app/kingdom-rush-6-genesis-td/id6759664029"
+        },
+        {
+          "label": "Google Play — Android",
+          "url": "https://play.google.com/store/apps/details?id=com.ironhidegames.android.kingdomrush6.genesis"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "question": "What is Kingdom Rush 6 called?",
+      "answer": "Kingdom Rush 6: Genesis. Steam uses the title Kingdom Rush 6: Genesis TD."
+    },
+    {
+      "question": "Is Kingdom Rush 6 out now?",
+      "answer": "Yes. The game released September 24, 2026."
+    },
+    {
+      "question": "How many heroes are in Kingdom Rush 6?",
+      "answer": "There are 12 heroes; you field two in a normal stage."
+    },
+    {
+      "question": "How many towers are in Kingdom Rush 6?",
+      "answer": "There are 15 Genesis towers, with five selected types in a normal loadout."
+    },
+    {
+      "question": "How many spells are in Kingdom Rush 6?",
+      "answer": "There are nine spells, with three equipped for normal play."
+    },
+    {
+      "question": "How many stages are in Kingdom Rush 6?",
+      "answer": "The launch campaign contains 18 stages."
+    },
+    {
+      "question": "What platforms is Kingdom Rush 6 on?",
+      "answer": "PC via Steam, iOS via the App Store and Android via Google Play."
+    },
+    {
+      "question": "Is the Kingdom Rush 6 demo still available?",
+      "answer": "The pre-release Steam demo ended July 6, 2026."
+    },
+    {
+      "question": "What is Classic Mode?",
+      "answer": "A mode using one hero, the original four tower lines, Rain of Fire and Reinforcements."
+    }
+  ],
+  "screenshots": [],
+  "lastReviewed": "2026-10-01"
+}

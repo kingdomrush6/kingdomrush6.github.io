@@ -1,0 +1,33 @@
+node_modules/
+.next/
+out/
+.env*
+!.env.example
+.DS_Store
+*.tsbuildinfo
+.playwright-cli/
+release/
+
+# Local IDE and tool configuration
+.idea/
+.vscode/
+.agents/
+.codex/
+.aws/
+.ssh/
+.npmrc
+
+# Local previews, test artifacts and caches
+/output/
+coverage/
+test-results/
+playwright-report/
+.cache/
+.vercel/
+*.log
+
+# Local credential files
+*.pem
+*.key
+*.p12
+*.pfx

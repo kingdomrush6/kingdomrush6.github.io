@@ -1,0 +1,79 @@
+{
+  "readyForLaunch": true,
+  "siteName": "Kingdom Rush 6 Guide",
+  "shortName": "Kingdom Rush 6",
+  "description": "Independent Kingdom Rush 6: Genesis guide to heroes, towers, spells, stages, tier lists and Classic Mode.",
+  "language": "en",
+  "locale": "en_US",
+  "authorName": "Editorial Team",
+  "theme": {
+    "preset": "obsidian-red",
+    "overrides": {
+      "background": "0 0% 96%",
+      "foreground": "0 0% 7%",
+      "card": "0 0% 100%",
+      "card-foreground": "0 0% 7%",
+      "primary": "25 95% 53%",
+      "primary-foreground": "0 0% 0%",
+      "secondary": "0 0% 89%",
+      "muted": "0 0% 91%",
+      "muted-foreground": "0 0% 7%",
+      "border": "0 0% 80%",
+      "radius": ".45rem",
+      "card-shadow": "0 14px 36px rgba(15, 18, 24, .08)",
+      "hero-gradient": "linear-gradient(90deg, hsl(25 95% 53% / .16), transparent 46%)",
+      "background-pattern": "none",
+      "font-sans": "\"Source Sans 3\", ui-sans-serif, system-ui, sans-serif",
+      "font-heading": "\"Source Sans 3\", ui-sans-serif, system-ui, sans-serif",
+      "heading-weight": "700",
+      "heading-letter-spacing": "-0.02em"
+    },
+    "skin": "editorial",
+    "headerStyle": "solid",
+    "componentStyle": "rounded",
+    "appearanceVersion": 2,
+    "appearanceMode": "fixed-template",
+    "templateVersion": 1,
+    "accentColorId": "orange",
+    "colorMode": "custom",
+    "background": "#F6F6F6",
+    "accent": "#F97316",
+    "fontId": "source-sans"
+  },
+  "hosting": {
+    "siteUrl": "https://kingdomrush6.github.io",
+    "basePath": "",
+    "customDomain": null
+  },
+  "contact": {
+    "email": null,
+    "url": null
+  },
+  "repositoryUrl": null,
+  "allowedExternalDomains": [
+    "www.kingdomrushgenesis.com",
+    "www.ironhidegames.com",
+    "store.steampowered.com",
+    "apps.apple.com",
+    "play.google.com"
+  ],
+  "assets": {
+    "logo": "/images/kingdom-rush-6-logo.webp",
+    "cover": "/images/kingdom-rush-6-cover.webp",
+    "openGraph": "/images/kingdom-rush-6-og.png",
+    "favicon": "/images/kingdom-rush-6-logo.webp"
+  },
+  "game": {
+    "name": "Kingdom Rush 6: Genesis",
+    "platform": "PC (Steam), iOS, Android",
+    "developer": "Ironhide Game Studio",
+    "genre": "Tower defense strategy",
+    "officialUrl": "https://www.kingdomrushgenesis.com/"
+  },
+  "seo": {
+    "titleTemplate": "%s | Kingdom Rush 6 Guide",
+    "defaultKeywords": [
+      "Kingdom Rush 6"
+    ]
+  }
+}
