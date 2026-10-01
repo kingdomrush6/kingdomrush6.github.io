@@ -80,7 +80,14 @@ for (const file of walk(out).filter(f => /\.(html|xml|txt|webmanifest|svg)$/.tes
   if (!file.endsWith('.html')) continue;
   for (const m of html.matchAll(/<(?:a|img|link|script)\b[^>]*(?:href|src)="([^"]+)"/g)) {
     const u=decode(m[1]); if (/^(?:https?:|mailto:|data:)/.test(u)) continue;
-    const [local,fragment] = u.split('#');
+    const [urlPath,fragment] = u.split('#');
+    let local;
+    try {
+      local = decodeURIComponent(urlPath.split('?')[0]);
+    } catch {
+      errors.push(`${file.replace(out,'')}: malformed local URL ${u}`);
+      continue;
+    }
     const target = local ? (local.startsWith('/') ? join(out,local) : resolve(dirname(file),local)) : file;
     const dest = existsSync(target) && statSync(target).isDirectory()?join(target,'index.html'):target;
     check(existsSync(dest),`${file.replace(out,'')}: broken local link or asset ${u}`);
