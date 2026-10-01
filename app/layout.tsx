@@ -38,6 +38,9 @@ export default function RootLayout({ children }: Readonly<{ children: ReactNode 
       data-fixed-template={fixed ? fixedSkin : undefined}
       style={style}
     >
+      <head>
+        <Analytics />
+      </head>
       <body data-fixed-template={fixed ? fixedSkin : undefined}>
         {fixed ? <style dangerouslySetInnerHTML={{ __html: scopedTemplateCss(fixedSkin, siteConfig.theme.accentColorId) }} /> : null}
         <style dangerouslySetInnerHTML={{ __html: fontFaceCss(siteConfig.hosting.basePath) }} />
@@ -45,7 +48,6 @@ export default function RootLayout({ children }: Readonly<{ children: ReactNode 
         <SiteHeader links={navLinks} />
         <div id="main-content">{children}</div>
         <SiteFooter coreLinks={navLinks} legalLinks={legalLinks} />
-        <Analytics />
       </body>
     </html>
   );
