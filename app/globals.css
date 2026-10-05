@@ -568,3 +568,15 @@ body[data-fixed-template=editorial] .guide-links a{padding:18px;background:white
 body[data-fixed-template=editorial] footer a{display:inline-block;padding:10px 0;min-height:44px}
 @media(max-width:1279px){.guide-wide-links{display:none}.guide-more{display:block}}
 @media(max-width:767px){.guide-desktop-nav{display:none}.guide-toggle{display:block;border:1px solid #555}.guide-mobile-nav{display:flex;flex-direction:column}.guide-brand{font-size:22px}.guide-hero{grid-template-columns:1fr;padding:18px}.guide-links,.guide-toc nav{grid-template-columns:1fr}.guide-head{gap:10px}.guide-brand img{width:32px;height:32px}body[data-fixed-template=editorial] main section{margin-top:32px}}
+
+/* Ad-only styling; reserve the requested banner size while it loads. */
+[data-ad-placement]{max-width:100%;min-width:0;margin:20px 0;overflow:hidden}
+[data-ad-placement="banner"]{min-height:110px}
+[data-ad-placement][data-ad-state="empty"]{height:0;min-height:0;margin:0;padding:0;border:0}
+.adsterra-slot{max-width:100%;min-width:0;text-align:center}
+.adsterra-label{display:block;margin-bottom:6px;font-size:10px;line-height:14px;letter-spacing:.08em;color:#777}
+.adsterra-banner-host{display:flex;justify-content:center;min-height:90px;max-width:100%;overflow:hidden}
+.adsterra-banner-frame{display:block;border:0;flex-shrink:0}
+.adsterra-native{padding:12px 0;border-top:1px solid #ddd;border-bottom:1px solid #ddd}
+@media(width < 768px){[data-ad-placement="banner"]{min-height:70px}.adsterra-banner-host{min-height:50px}}
+.adsterra-native-frame{display:block;width:100%;border:0}
