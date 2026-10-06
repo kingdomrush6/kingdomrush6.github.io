@@ -1840,5 +1840,942 @@
       "classic-mode"
     ],
     "lastReviewed": "2026-10-01"
+  },
+  {
+    "enabled": true,
+    "slug": "enemies",
+    "pageType": "list",
+    "navLabel": "Enemies",
+    "title": "Kingdom Rush 6 Enemies: Factions, Bosses & Counters",
+    "description": "Kingdom Rush 6 enemies guide covering 40+ enemy types, five factions, six boss fights, major threats, and practical counters for different waves.",
+    "keywords": [
+      "kingdom rush 6 enemies",
+      "kingdom rush genesis enemies",
+      "kingdom rush 6 enemy list",
+      "kingdom rush 6 bosses",
+      "kingdom rush genesis bosses",
+      "kingdom rush 6 enemy factions",
+      "kingdom rush 6 enemy guide"
+    ],
+    "primaryKeyword": "kingdom rush 6 enemies",
+    "secondaryKeywords": [
+      "kingdom rush genesis enemies",
+      "kingdom rush 6 enemy list",
+      "kingdom rush 6 bosses",
+      "kingdom rush genesis bosses",
+      "kingdom rush 6 enemy factions",
+      "kingdom rush 6 enemy guide"
+    ],
+    "searchIntent": "Kingdom Rush 6 enemies guide covering 40+ enemy types, five factions, six boss fights, major threats, and practical counters for different waves.",
+    "priority": "P0",
+    "navVisible": true,
+    "parentSlug": "",
+    "wordCountTarget": 1000,
+    "factsStatus": "verified",
+    "hero": {
+      "eyebrow": "Genesis guide",
+      "heading": "Kingdom Rush 6 Enemies",
+      "lead": "Kingdom Rush 6: Genesis features 40+ enemies from five factions and six colossal boss fights. This guide covers known enemy types, campaign threats and practical counters, helping you adjust tower damage, hero positions and spell timing to the wave ahead."
+    },
+    "sections": [
+      {
+        "id": "at-a-glance",
+        "heading": "Kingdom Rush 6 Enemies at a Glance",
+        "paragraphs": [
+          "The official enemy count describes the variety across the campaign, rather than the number arriving in a single wave. Your immediate task is smaller: identify which enemies your current defense struggles to damage, which ones escape its coverage and which ones threaten your soldiers."
+        ],
+        "table": {
+          "caption": "Official enemy and campaign facts",
+          "columns": [
+            "Feature",
+            "Launch campaign"
+          ],
+          "rows": [
+            [
+              "Enemy types",
+              "40+"
+            ],
+            [
+              "Enemy factions / races",
+              "5"
+            ],
+            [
+              "Colossal boss fights",
+              "6"
+            ],
+            [
+              "Campaign stages",
+              "18"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "factions",
+        "heading": "Kingdom Rush 6 Enemy Factions",
+        "paragraphs": [
+          "The Shadow Order is a secret society of bandits and assassins hired by Vez’nan. Ironhide introduced these cloaked raiders in Devlog #19, connecting them to the bandits of the original Kingdom Rush. They attack the young kingdom’s construction sites, library and roads."
+        ]
+      },
+      {
+        "id": "enemy-list",
+        "heading": "Kingdom Rush 6 Enemy List",
+        "paragraphs": [
+          "This known campaign enemy roster brings together early raiders and later threats. Bosses appear in their own section below. Use the names to recognize an encounter, then check the current in-game enemy description before committing gold to a counter; returning names can have different properties in Genesis."
+        ],
+        "table": {
+          "caption": "Known campaign enemy roster",
+          "columns": [
+            "Enemy",
+            "Movement"
+          ],
+          "rows": [
+            [
+              "Bandit",
+              "Ground"
+            ],
+            [
+              "Blackguard",
+              "Ground"
+            ],
+            [
+              "Shadow Archer",
+              "Ground"
+            ],
+            [
+              "Shadow Blades",
+              "Ground"
+            ],
+            [
+              "Crow",
+              "Flying"
+            ],
+            [
+              "Crowcaller",
+              "Ground"
+            ],
+            [
+              "Goblin",
+              "Ground"
+            ],
+            [
+              "Orc Warrior",
+              "Ground"
+            ],
+            [
+              "Orc Shaman",
+              "Ground"
+            ],
+            [
+              "Wulf",
+              "Ground"
+            ],
+            [
+              "Worg",
+              "Ground"
+            ],
+            [
+              "Ogre",
+              "Ground"
+            ],
+            [
+              "Troll Warrior",
+              "Ground"
+            ],
+            [
+              "Troll Champion",
+              "Ground"
+            ],
+            [
+              "Troll Glider",
+              "Flying"
+            ],
+            [
+              "Frost Herald",
+              "Ground"
+            ],
+            [
+              "Spiderling",
+              "Ground"
+            ],
+            [
+              "Giant Spider",
+              "Ground"
+            ],
+            [
+              "Spider Matriarch",
+              "Ground"
+            ],
+            [
+              "Leaper Spider",
+              "Ground"
+            ],
+            [
+              "Son of Sarelgaz",
+              "Ground"
+            ],
+            [
+              "Brigand",
+              "Ground"
+            ],
+            [
+              "Gargoyle",
+              "Flying"
+            ],
+            [
+              "Dark Sapper",
+              "Ground"
+            ],
+            [
+              "Tainted Wolf",
+              "Ground"
+            ],
+            [
+              "Skeleton",
+              "Ground"
+            ],
+            [
+              "Bone Golem",
+              "Ground"
+            ],
+            [
+              "Dark Disciple",
+              "Ground"
+            ],
+            [
+              "Necromancer",
+              "Ground"
+            ],
+            [
+              "Death Rider",
+              "Ground"
+            ],
+            [
+              "Rotten Treant",
+              "Ground"
+            ],
+            [
+              "Dark Knight",
+              "Ground"
+            ],
+            [
+              "Dark Slayer",
+              "Ground"
+            ],
+            [
+              "Demon Spawn",
+              "Ground"
+            ],
+            [
+              "Demon Hound",
+              "Ground"
+            ],
+            [
+              "Demon Lord",
+              "Ground"
+            ],
+            [
+              "Demon Flareon",
+              "Ground"
+            ],
+            [
+              "Demon Imp",
+              "Flying"
+            ],
+            [
+              "Magma Elemental",
+              "Ground"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "enemy-types",
+        "heading": "Enemy Types and What They Change",
+        "paragraphs": [],
+        "subsections": [
+          {
+            "heading": "Armored and magic-resistant enemies",
+            "paragraphs": [
+              "Dark Knight is an armored ground enemy without magic resistance. Magic damage is therefore a sensible answer when physical attacks are making little progress. Put that damage where the enemy spends time under fire; an appropriate damage type still needs enough coverage to finish the target.",
+              "Giant Spider has magic resistance in Genesis. Compare physical options when a mage-heavy defense stalls against it. Resistance is a reason to diversify, rather than a reason to discard every mage: the same wave may contain another enemy that your magic tower handles well."
+            ]
+          },
+          {
+            "heading": "Flying and fast enemies",
+            "paragraphs": [
+              "Crows fly, move quickly and cannot be stopped by soldiers. A barracks position that holds a ground wave will not close an aerial gap. Check whether the towers, hero attacks and spells covering the flight route can hit air targets; range alone does not guarantee a valid target.",
+              "For fast threats, watch where the first effective attack lands. If most of the road is outside useful coverage, a stronger tower near the exit may still be too late. Earlier coverage and a reserve spell give you more chances to deal with a leak."
+            ]
+          },
+          {
+            "heading": "Ranged pressure and unreliable blocking",
+            "paragraphs": [
+              "Shadow Archer can attack your units from range. A soldier line may fail because it is taking damage before the main ground group arrives. Support that position with damage coverage, and move a vulnerable hero before the position collapses. Watch the fight rather than treating every blocked enemy as permanently contained."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "bosses",
+        "heading": "Kingdom Rush 6 Boss Fights",
+        "paragraphs": [
+          "The official campaign includes six boss fights. The post-launch boss lineup is Gor’Thok, J.T., Sarelgaz, Moglok-Hai, Lord Blackburn and Vez’nan. These encounters are part of the campaign, not six separate game modes. The map guide helps you follow the stage order without treating every difficult enemy as a boss.",
+          "Before a boss attempt, decide how your defense will handle the accompanying wave as well as the large target. If every spell is spent on ordinary enemies just before the boss reaches your strongest position, the encounter can become much harder to recover. Keep track of which part of the attempt failed and adjust that part first."
+        ],
+        "links": [
+          {
+            "slug": "map-stages",
+            "label": "Map & Stages",
+            "description": "Follow the full campaign order and its regions."
+          }
+        ]
+      },
+      {
+        "id": "counters",
+        "heading": "How to Counter Difficult Enemy Waves",
+        "paragraphs": [
+          "Build a damage position and a holding position that work together. A blocker placed outside useful tower range delays an enemy without solving the kill. Area damage is most useful when several targets remain within its coverage; a narrow line of scattered enemies may need another response.",
+          "Use your two heroes to cover different jobs in normal play. Consider who supports the busiest lane and who can respond to another route. Keep a spell ready for the wave’s dangerous moment, rather than spending everything on the first group. Compare the tier list’s role recommendations against the actual enemies on your stage."
+        ],
+        "links": [
+          {
+            "slug": "towers",
+            "label": "Towers",
+            "description": "Compare damage types and battlefield roles."
+          },
+          {
+            "slug": "spells",
+            "label": "Spells",
+            "description": "Plan damage, assistance and control responses."
+          },
+          {
+            "slug": "heroes",
+            "label": "Heroes",
+            "description": "Choose a pair for the lanes you need to cover."
+          },
+          {
+            "slug": "tier-list",
+            "label": "Tier List",
+            "description": "Compare loadout options by role."
+          },
+          {
+            "slug": "",
+            "label": "Kingdom Rush 6 Guide"
+          }
+        ]
+      },
+      {
+        "id": "sources",
+        "heading": "Official Enemy References",
+        "paragraphs": [],
+        "externalLinks": [
+          {
+            "label": "Steam: official enemy, faction and boss counts",
+            "url": "https://store.steampowered.com/app/4259190/Kingdom_Rush_6_Genesis_TD/"
+          },
+          {
+            "label": "Ironhide Devlog #19: the Shadow Order",
+            "url": "https://www.ironhidegames.com/News/Details/500"
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "How many enemies are in Kingdom Rush 6?",
+        "answer": "Ironhide describes Kingdom Rush 6: Genesis as having 40+ different enemies."
+      },
+      {
+        "question": "How many enemy factions are in Kingdom Rush 6?",
+        "answer": "The official feature list gives five enemy factions, also described as races. The Shadow Order is an officially named enemy faction."
+      },
+      {
+        "question": "How many bosses are in Kingdom Rush 6?",
+        "answer": "The campaign includes six colossal boss fights."
+      },
+      {
+        "question": "What towers are good against armored enemies?",
+        "answer": "Consider magic damage when armor is reducing your physical attacks. Dark Knight is a useful example: cover its path with magic damage and support that position."
+      },
+      {
+        "question": "How should I deal with flying enemies?",
+        "answer": "Use attacks that can target air and cover the flight route. Soldiers cannot block flying Crows, so a strong ground choke alone is not enough."
+      },
+      {
+        "question": "Where can I see the full campaign stage order?",
+        "answer": "The Map & Stages guide lists the launch campaign’s 18 stages in order. A link appears in the boss section above."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "towers",
+      "spells",
+      "tier-list",
+      "map-stages",
+      "roadmap",
+      "patch-1"
+    ],
+    "lastReviewed": "2026-10-06",
+    "sourceNotes": [
+      "Counts: https://store.steampowered.com/app/4259190/Kingdom_Rush_6_Genesis_TD/ (reviewed 2026-10-06).",
+      "Shadow Order: https://www.ironhidegames.com/News/Details/500. Do not equate terrain groups or Primordials lore with five named enemy factions.",
+      "Known roster and boss names cross-checked: https://new.wikily.gg/kingdom-rush-6-genesis/enemies and https://kingdomrush6.gamingwiki.net/enemies/ (post-launch records). Only matching names included; no claimed complete 56-entry roster.",
+      "Genesis-specific behavior: https://new.wikily.gg/kingdom-rush-6-genesis/enemies/dark-knight ; /giant-spider ; /crow ; /shadow-archer. No numeric stats reproduced. Boss names additionally checked at https://new.wikily.gg/kingdom-rush-6-genesis/bosses .",
+      "Counter recommendations are editorial applications of damage type, movement and range rules, not measured rankings."
+    ]
+  },
+  {
+    "enabled": true,
+    "slug": "roadmap",
+    "pageType": "updates",
+    "navLabel": "Roadmap",
+    "title": "Kingdom Rush 6 Roadmap: November & December Updates",
+    "description": "Kingdom Rush 6 roadmap: two mini-campaigns arrive in November and December 2026, each adding 3 stages, 1 tower, 1 hero and 1 spell.",
+    "keywords": [
+      "kingdom rush 6 roadmap",
+      "kingdom rush genesis roadmap",
+      "kingdom rush 6 genesis roadmap",
+      "kingdom rush genesis updates",
+      "kingdom rush 6 future updates",
+      "kingdom rush genesis mini campaign",
+      "kingdom rush 6 november update",
+      "kingdom rush 6 december update"
+    ],
+    "primaryKeyword": "kingdom rush 6 roadmap",
+    "secondaryKeywords": [
+      "kingdom rush genesis roadmap",
+      "kingdom rush 6 genesis roadmap",
+      "kingdom rush genesis updates",
+      "kingdom rush 6 future updates",
+      "kingdom rush genesis mini campaign",
+      "kingdom rush 6 november update",
+      "kingdom rush 6 december update"
+    ],
+    "searchIntent": "Kingdom Rush 6 roadmap: two mini-campaigns arrive in November and December 2026, each adding 3 stages, 1 tower, 1 hero and 1 spell.",
+    "priority": "P0",
+    "navVisible": true,
+    "parentSlug": "",
+    "wordCountTarget": 1000,
+    "factsStatus": "verified",
+    "hero": {
+      "eyebrow": "Genesis updates",
+      "heading": "Kingdom Rush 6 Roadmap",
+      "lead": "Ironhide announced the Kingdom Rush 6: Genesis roadmap on September 28, 2026. A mini-campaign is planned for November and another for December 2026, each adding three stages, one tower, one hero, one spell and a story chapter. More content is planned beyond 2026, with details still to come."
+    },
+    "sections": [
+      {
+        "id": "at-a-glance",
+        "heading": "Kingdom Rush 6 Roadmap at a Glance",
+        "paragraphs": [
+          "The schedule gives two release months and a matching content package for each month. The launch row is the baseline already available; the next two rows show additions, not replacement totals. Use the table to distinguish what you can play now from what is on the way."
+        ],
+        "table": {
+          "caption": "Launch content and announced 2026 additions",
+          "columns": [
+            "Phase",
+            "Timing",
+            "New stages",
+            "New tower",
+            "New hero",
+            "New spell"
+          ],
+          "rows": [
+            [
+              "Launch",
+              "Out now",
+              "18 total",
+              "15 total",
+              "12 total",
+              "9 total"
+            ],
+            [
+              "November mini-campaign",
+              "Nov 2026",
+              "+3",
+              "+1",
+              "+1",
+              "+1"
+            ],
+            [
+              "December mini-campaign",
+              "Dec 2026",
+              "+3",
+              "+1",
+              "+1",
+              "+1"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "november",
+        "heading": "November 2026 Mini-Campaign",
+        "paragraphs": [
+          "November brings the first announced mini-campaign: three stages, a tower, a hero and a spell, together with another chapter of the story. The month is the release window. Ironhide’s September announcement does not attach an exact launch day to it.",
+          "The three stages are the clearest reason to return if you have finished the launch campaign. They add more battles to learn, while the three new loadout choices give you separate things to compare. A stage count tells you the size of the addition; it does not tell you its enemy mix, path layout or difficulty.",
+          "For a useful baseline before the update, note which jobs your current team covers well. You can then evaluate the new tower, hero and spell against specific needs: reliable lane damage, ground support or an emergency response. Their names and abilities will determine those roles when Ironhide reveals them."
+        ],
+        "links": [
+          {
+            "slug": "heroes",
+            "label": "Heroes",
+            "description": "Review the 12 launch heroes and pairings."
+          },
+          {
+            "slug": "towers",
+            "label": "Towers",
+            "description": "Compare the 15 launch towers."
+          },
+          {
+            "slug": "enemies",
+            "label": "Enemies",
+            "description": "Review enemy types and counters before another campaign."
+          }
+        ]
+      },
+      {
+        "id": "december",
+        "heading": "December 2026 Mini-Campaign",
+        "paragraphs": [
+          "December is the second announced release window. Its mini-campaign has the same stated content count: three stages, one tower, one hero and one spell, plus a new story chapter. It is a separate addition after the November package.",
+          "The matching counts do not mean the two campaigns will play alike. A tower’s attack role, a hero’s skills and a spell’s effect are different questions from how many entries arrive. Those details are needed before making a loadout recommendation or ranking any unrevealed character.",
+          "If you play through the November stages first, keep a note of the situations that made you change your team. That gives you a practical starting point for testing December’s additions. Compare a new option in a familiar situation before deciding that it should replace something in every stage."
+        ],
+        "links": [
+          {
+            "slug": "spells",
+            "label": "Spells",
+            "description": "Review the nine launch spells and their roles."
+          }
+        ]
+      },
+      {
+        "id": "full-roster",
+        "heading": "What the Roadmap Means for the Full Roster",
+        "paragraphs": [
+          "The projected totals below are simple arithmetic: start with the launch lineup and add three stages, one tower, one hero and one spell for each mini-campaign. They show the combined content if both announced packages arrive as described, rather than a separate promise about every future roster entry.",
+          "These totals also leave enemy and boss counts open. Extra stages do not automatically establish an equal number of new bosses or a specific number of new enemy types. Read future campaign reveals for those details instead of deriving them from the stage increase."
+        ],
+        "table": {
+          "caption": "Projected totals from the announced additions",
+          "columns": [
+            "Point in the roadmap",
+            "Stages",
+            "Towers",
+            "Heroes",
+            "Spells"
+          ],
+          "rows": [
+            [
+              "Launch",
+              "18",
+              "15",
+              "12",
+              "9"
+            ],
+            [
+              "After November",
+              "21",
+              "16",
+              "13",
+              "10"
+            ],
+            [
+              "After December",
+              "24",
+              "17",
+              "14",
+              "11"
+            ]
+          ]
+        },
+        "links": [
+          {
+            "slug": "map-stages",
+            "label": "Map & Stages",
+            "description": "Follow the launch campaign before the new chapters."
+          }
+        ]
+      },
+      {
+        "id": "beyond-2026",
+        "heading": "What Is Planned Beyond 2026?",
+        "paragraphs": [
+          "Ironhide says more content is planned beyond 2026. The September roadmap does not identify those later releases, their size or their timing. The announced November and December packages therefore remain the concrete schedule to use for your next return to Genesis.",
+          "A longer horizon leaves room for later announcements without establishing a particular hero, campaign theme or release month. For now, finish the chapters available to you and use the official news page for the next reveal. Future artwork alone is not enough to identify a playable character or explain a new mechanic."
+        ]
+      },
+      {
+        "id": "updates",
+        "heading": "Mini-Campaigns and Balance Updates",
+        "paragraphs": [
+          "The content roadmap and Patch 1 answer different player questions. The roadmap adds battles and loadout choices in November and December. Patch 1 addresses progression, economy, selected stages and other existing systems. Follow the patch page when you want to know whether a familiar strategy or unlock path is changing.",
+          "When returning for a mini-campaign, check both the new content notice and the balance notes. A loadout you remember may feel different after a patch even before you try a new hero or tower. Knowing which change belongs to which announcement makes it easier to decide what to test first."
+        ],
+        "links": [
+          {
+            "slug": "patch-1",
+            "label": "Patch 1",
+            "description": "Read the first patch’s announced changes and release status."
+          },
+          {
+            "slug": "",
+            "label": "Kingdom Rush 6 Guide"
+          }
+        ]
+      },
+      {
+        "id": "official-roadmap",
+        "heading": "Official Roadmap Source",
+        "paragraphs": [],
+        "externalLinks": [
+          {
+            "label": "Ironhide: Kingdom Rush Genesis Roadmap — September 28, 2026",
+            "url": "https://www.ironhidegames.com/News/Details/529"
+          },
+          {
+            "label": "Kingdom Rush Genesis: current lineup and official news",
+            "url": "https://www.kingdomrushgenesis.com/"
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What is coming next to Kingdom Rush 6?",
+        "answer": "The content roadmap announces a November mini-campaign and a December mini-campaign in 2026, each with three stages, one tower, one hero and one spell."
+      },
+      {
+        "question": "When is the next Kingdom Rush 6 update?",
+        "answer": "The next mini-campaign is planned for November 2026, without an exact day in the roadmap. Patch 1 is a separate balance update; see its status page for the October announcement."
+      },
+      {
+        "question": "What is in the November mini-campaign?",
+        "answer": "Three new stages, one tower, one hero, one spell and a story chapter."
+      },
+      {
+        "question": "What is in the December mini-campaign?",
+        "answer": "A second package of three new stages, one tower, one hero, one spell and a story chapter."
+      },
+      {
+        "question": "How many stages will Kingdom Rush 6 have after both 2026 mini-campaigns?",
+        "answer": "The projected total is 24: the 18 launch stages plus three in November and three in December, based on the announced additions."
+      },
+      {
+        "question": "Are the new heroes and towers named yet?",
+        "answer": "The September 28 roadmap gives counts and months, without naming the new heroes, towers or spells."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "map-stages",
+      "heroes",
+      "towers",
+      "spells",
+      "patch-1"
+    ],
+    "lastReviewed": "2026-10-06",
+    "sourceNotes": [
+      "Roadmap and story chapters: https://www.ironhidegames.com/News/Details/529 (published 2026-09-28, reviewed 2026-10-06).",
+      "Launch totals: https://www.kingdomrushgenesis.com/ and Steam app 4259190. Future totals are arithmetic from launch plus each announced package, not a separately announced expanded roster.",
+      "No exact day, price, platform rollout, character identity, campaign theme or mode support stated."
+    ]
+  },
+  {
+    "enabled": true,
+    "slug": "patch-1",
+    "pageType": "updates",
+    "navLabel": "Patch 1",
+    "title": "Kingdom Rush 6 Patch 1: Changes, Buffs & Release Info",
+    "description": "Kingdom Rush 6 Patch 1 brings faster hero and spell leveling, cheaper unlocks, stage tweaks, Classic Mode changes, a Rain of Fire buff, and fixes.",
+    "keywords": [
+      "kingdom rush 6 patch 1",
+      "kingdom rush genesis patch 1",
+      "kingdom rush 6 patch notes",
+      "kingdom rush genesis patch notes",
+      "kingdom rush 6 update",
+      "kingdom rush genesis update",
+      "kingdom rush 6 patch",
+      "kingdom rush genesis first patch"
+    ],
+    "primaryKeyword": "kingdom rush 6 patch 1",
+    "secondaryKeywords": [
+      "kingdom rush genesis patch 1",
+      "kingdom rush 6 patch notes",
+      "kingdom rush genesis patch notes",
+      "kingdom rush 6 update",
+      "kingdom rush genesis update",
+      "kingdom rush 6 patch",
+      "kingdom rush genesis first patch"
+    ],
+    "searchIntent": "Kingdom Rush 6 Patch 1 brings faster hero and spell leveling, cheaper unlocks, stage tweaks, Classic Mode changes, a Rain of Fire buff, and fixes.",
+    "priority": "P0",
+    "navVisible": true,
+    "parentSlug": "",
+    "wordCountTarget": 1000,
+    "factsStatus": "verified",
+    "hero": {
+      "eyebrow": "Genesis updates",
+      "heading": "Kingdom Rush 6 Patch 1",
+      "lead": "Ironhide announced Kingdom Rush 6 Patch 1 on October 1, 2026 and said it would arrive early the following week. As of October 6, the official notice remains a preview. Its focus is progression, unlock costs, selected stages, targeting, Classic Mode, Rain of Fire, artillery, Bolin and bug fixes."
+    },
+    "sections": [
+      {
+        "id": "status",
+        "heading": "Kingdom Rush 6 Patch 1 Status",
+        "paragraphs": [
+          "Patch 1 is announced, with an expected window of early in the week following the October 1 post. The announcement is still the latest official patch notice on October 6. It gives no exact release day. Ironhide says the live patch will be accompanied by a detailed changelog."
+        ],
+        "table": {
+          "caption": "Patch 1 release information",
+          "columns": [
+            "Item",
+            "Current information"
+          ],
+          "rows": [
+            [
+              "Announcement",
+              "October 1, 2026"
+            ],
+            [
+              "Status reviewed",
+              "October 6, 2026 — announced"
+            ],
+            [
+              "Expected timing",
+              "Early the following week, according to the October 1 post"
+            ],
+            [
+              "Exact release date",
+              "Not announced in the current notice"
+            ],
+            [
+              "Final numeric changelog",
+              "To accompany the live patch"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "changes",
+        "heading": "Patch 1 Changes at a Glance",
+        "paragraphs": [],
+        "table": {
+          "caption": "Announced Patch 1 highlights",
+          "columns": [
+            "Area",
+            "Confirmed change in the preview"
+          ],
+          "rows": [
+            [
+              "Casual difficulty",
+              "More gold"
+            ],
+            [
+              "Heroes and spells",
+              "Faster leveling and a stronger catch-up bonus"
+            ],
+            [
+              "Unlocks",
+              "Fewer stars needed for towers, heroes and spells"
+            ],
+            [
+              "Stages 3, 7 and 10",
+              "Tower spot and wave adjustments"
+            ],
+            [
+              "Targeting",
+              "Enemies near the exit remain targetable while visible on the path"
+            ],
+            [
+              "Classic Mode",
+              "Lower ability costs; fully upgraded starting towers on Impossible"
+            ],
+            [
+              "Rain of Fire",
+              "Buff"
+            ],
+            [
+              "Artillery",
+              "Cost adjustments to make building easier"
+            ],
+            [
+              "Bolin",
+              "Mine placement fix, buff and bug fixes"
+            ],
+            [
+              "General fixes",
+              "Additional bug fixes"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "leveling",
+        "heading": "Hero and Spell Leveling Changes",
+        "paragraphs": [
+          "Both heroes and spells are due to level faster, with a stronger catch-up bonus. If you have stayed with an established team because another option is underleveled, this is the part of the preview most relevant to trying a different setup. The announcement does not give an experience multiplier or a new leveling formula."
+        ],
+        "links": [
+          {
+            "slug": "heroes",
+            "label": "Heroes",
+            "description": "Compare hero roles before switching your pair."
+          },
+          {
+            "slug": "spells",
+            "label": "Spells",
+            "description": "Review the damage, help and control options."
+          }
+        ]
+      },
+      {
+        "id": "economy",
+        "heading": "Tower, Unlock and Economy Changes",
+        "paragraphs": [
+          "The preview reduces the stars required to unlock towers, heroes and spells. It also announces more gold on Casual difficulty. These are separate changes: one affects access to your collection, while the other affects the resources you spend during a stage. The notice does not extend the Casual gold increase to every difficulty."
+        ],
+        "links": [
+          {
+            "slug": "towers",
+            "label": "Towers",
+            "description": "Review the current tower selection."
+          }
+        ]
+      },
+      {
+        "id": "stages",
+        "heading": "Stages 3, 7 and 10 Changes",
+        "paragraphs": [
+          "Ironhide identifies stages 3, 7 and 10 for adjustments to tower spots and waves. The preview does not publish the revised layouts or wave compositions. An older walkthrough can still explain the stage’s general goal, but its exact placement sequence may need another look after the update.",
+          "The targeting change concerns enemies near the exit: visible enemies on the path should remain valid targets. On a fresh attempt after the update, inspect build positions and routes before repeating an older placement sequence."
+        ],
+        "links": [
+          {
+            "slug": "map-stages",
+            "label": "Map & Stages",
+            "description": "Find stages 3, 7 and 10 in campaign order."
+          }
+        ]
+      },
+      {
+        "id": "classic-mode",
+        "heading": "Classic Mode Changes",
+        "paragraphs": [
+          "Classic Mode has two announced changes: lower ability costs and fully upgraded starting towers on Impossible. The Impossible rule is specific to that difficulty in Classic Mode. It is not an announcement that every tower in every mode will start at its highest level."
+        ],
+        "links": [
+          {
+            "slug": "classic-mode",
+            "label": "Classic Mode",
+            "description": "Review the mode’s tower and spell restrictions."
+          }
+        ]
+      },
+      {
+        "id": "buffs",
+        "heading": "Rain of Fire, Artillery and Bolin Changes",
+        "paragraphs": [
+          "Rain of Fire receives a buff, artillery gets cost adjustments intended to make it easier to build, and Bolin receives a mine placement fix alongside a buff and bug fixes. The preview describes the direction of these changes without specifying new damage values, prices or skill numbers.",
+          "Test a changed tool in a familiar stage: check whether artillery fits your opening budget, Rain of Fire finishes a dangerous group, or Bolin’s mines contribute where intended. Familiar waves make the comparison easier to understand."
+        ]
+      },
+      {
+        "id": "crashes",
+        "heading": "Bug Fixes and Crash Support",
+        "paragraphs": [
+          "Crash issues are being handled in parallel with the patch work. Ironhide’s October 1 post asks affected players to contact support with details about their setup. Record the stage, the action before the crash and whether it happens repeatedly; those details make the report more useful than a general description of a failed session.",
+          "The same notice offers Steam players an open beta to try. In the Steam Library, right-click the game, open Properties, choose Betas and select the open beta if it is available. This is a troubleshooting option from the official notice, not confirmation that stable Patch 1 has launched."
+        ],
+        "externalLinks": [
+          {
+            "label": "Ironhide: official support",
+            "url": "https://www.ironhidegames.com/Support"
+          }
+        ]
+      },
+      {
+        "id": "pending-details",
+        "heading": "What Is Not Confirmed Yet",
+        "paragraphs": [
+          "Ironhide has not published the final numeric values in the current notice; a detailed changelog is planned with the live patch. Exact unlock thresholds, experience changes, artillery prices and Rain of Fire or Bolin balance numbers are therefore still to come.",
+          "Patch 1 is also separate from the November and December mini-campaigns. Use the roadmap for new stages and roster additions, and the patch notice for changes to the game you already own. The preview’s list of adjusted stages does not add three new campaign stages."
+        ],
+        "links": [
+          {
+            "slug": "roadmap",
+            "label": "Roadmap",
+            "description": "See the November and December content schedule."
+          },
+          {
+            "slug": "",
+            "label": "Kingdom Rush 6 Guide"
+          }
+        ]
+      },
+      {
+        "id": "official-notes",
+        "heading": "Official Patch Notes and News",
+        "paragraphs": [],
+        "externalLinks": [
+          {
+            "label": "Ironhide: Patch 1 announcement — October 1, 2026",
+            "url": "https://www.ironhidegames.com/News/Details/532"
+          },
+          {
+            "label": "Kingdom Rush Genesis: official news",
+            "url": "https://www.kingdomrushgenesis.com/news"
+          },
+          {
+            "label": "Steam: Kingdom Rush 6 official updates",
+            "url": "https://store.steampowered.com/news/app/4259190"
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "When is Kingdom Rush 6 Patch 1 coming out?",
+        "answer": "The October 1, 2026 announcement says early the following week. As of October 6, the official notice remains a preview with no exact release day."
+      },
+      {
+        "question": "What changes in Kingdom Rush 6 Patch 1?",
+        "answer": "The preview covers progression, unlock costs, Casual gold, selected stages, targeting, Classic Mode, Rain of Fire, artillery, Bolin and bug fixes."
+      },
+      {
+        "question": "Does Patch 1 make heroes level faster?",
+        "answer": "Yes. Faster hero leveling and a stronger catch-up bonus are announced, with the same direction for spells."
+      },
+      {
+        "question": "Does Patch 1 change Classic Mode?",
+        "answer": "Yes. Ability costs are due to fall, and towers will start fully upgraded on Impossible in Classic Mode."
+      },
+      {
+        "question": "Which stages are changing in Patch 1?",
+        "answer": "Stages 3, 7 and 10 are named for tower spot and wave adjustments."
+      },
+      {
+        "question": "Is Rain of Fire being buffed?",
+        "answer": "Yes. The preview announces a buff without final numeric values."
+      },
+      {
+        "question": "Is Bolin being changed?",
+        "answer": "Yes. Ironhide announces a mine placement fix, a buff and bug fixes for Bolin."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "roadmap",
+      "heroes",
+      "towers",
+      "spells",
+      "classic-mode"
+    ],
+    "lastReviewed": "2026-10-06",
+    "sourceNotes": [
+      "Status reviewed 2026-10-06: https://www.ironhidegames.com/News/Details/532 ; https://www.kingdomrushgenesis.com/news ; https://api.steampowered.com/ISteamNews/GetNewsForApp/v2/?appid=4259190&count=20&maxlength=0 . Latest Steam official announcement is October 1 at 13:45:26 UTC; no Patch 1 release/changelog in current feed.",
+      "October 1 highlights describe announced changes only. No exact release date or numeric balance values. Open beta is a separate crash-support option, not a stable Patch 1 release."
+    ]
   }
 ]

@@ -6,13 +6,14 @@ import { allPages, enabledCorePages, visibleCorePages } from "../content/registr
 import { pagePlainText } from "../lib/content";
 
 const launch = ["heroes", "towers", "tier-list", "classic-mode", "map-stages", "release-date", "spells"];
+const additions = ["enemies", "roadmap", "patch-1"];
 const errors: string[] = [];
 const check = (ok: unknown, message: string) => { if (!ok) errors.push(message); };
 check(siteConfig.hosting.siteUrl === "https://kingdomrush6.github.io", "Incorrect production origin");
 check(siteConfig.hosting.basePath === "", "Production basePath must be empty");
 check(new Set(allPages.map(p => p.slug)).size === allPages.length, "Duplicate slugs");
-check(enabledCorePages.length === launch.length, "Unexpected SEO page count");
-for (const slug of launch) {
+check(enabledCorePages.length === launch.length + additions.length, "Unexpected SEO page count");
+for (const slug of [...launch, ...additions]) {
   check(enabledCorePages.some(p => p.slug === slug), `Missing launch page: ${slug}`);
   check(visibleCorePages.some(p => p.slug === slug), `Missing navigation entry: ${slug}`);
 }

@@ -17,6 +17,6 @@ export function FixedTemplateHeader({ links }: { links: InternalLink[] }) {
       <img src={assetPath(siteConfig.assets.logo)} alt="" width="40" height="40" />Kingdom Rush <span>6</span>
     </Link>
     <button className="guide-toggle" aria-controls="guide-mobile-nav" aria-expanded={open} onClick={() => setOpen(!open)}>{open ? "Close menu" : "Menu"}</button>
-    <nav className="guide-desktop-nav" aria-label="Primary navigation">{links.slice(0, 4).map(item)}<div className="guide-wide-links">{links.slice(4).map(item)}</div><details className="guide-more"><summary>More</summary><div>{links.slice(4).map(item)}</div></details></nav>
+    <nav className="guide-desktop-nav" aria-label="Primary navigation">{links.slice(0, 4).map(item)}<details className="guide-more"><summary>More</summary><div>{links.slice(4).map(item)}</div></details></nav>
   </div><nav id="guide-mobile-nav" className="guide-mobile-nav" aria-label="Mobile navigation" hidden={!open}>{links.map(item)}</nav></header></>;
 }

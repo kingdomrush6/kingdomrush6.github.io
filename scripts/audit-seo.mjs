@@ -22,7 +22,7 @@ const all = [home,...pages];
 const route = p => p.slug ? `/${p.slug}/` : '/';
 const sitemap = read(join(out,'sitemap.xml'));
 const robots = read(join(out,'robots.txt'));
-check(sitemap.match(/<loc>/g)?.length===8,'Sitemap must contain exactly eight URLs');
+check(sitemap.match(/<loc>/g)?.length===all.length,`Sitemap must contain exactly ${all.length} URLs`);
 check(robots.includes(`Sitemap: ${origin}/sitemap.xml`),'Wrong robots sitemap');
 if (!draft) check(/Allow: \//.test(robots) && !/Disallow: \//.test(robots),'robots must allow crawling');
 check(!existsSync(join(out,'wiki')),'wiki output must not exist');
@@ -60,7 +60,8 @@ for (const p of all) {
   for (const link of main.matchAll(/href="(\/[^"#]*)(?:#[^"]*)?"/g)) if (link[1]!==path && incoming.has(link[1])) incoming.set(link[1],incoming.get(link[1])+1);
   const schemas = [...html.matchAll(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/g)].flatMap(m => { try { const d=JSON.parse(m[1]);return Array.isArray(d)?d:[d]; } catch { errors.push(`${path}: malformed JSON-LD`);return []; } });
   const types = schemas.map(s => s['@type']);
-  for (const type of p.slug?['WebPage','BreadcrumbList','FAQPage',...(p.slug==='release-date'?[]:['ItemList'])]:['WebSite','VideoGame','FAQPage']) check(types.includes(type),`${path}: missing ${type} schema`);
+  const hasList = p.sections.some(s => s.table && /roster|all 15|all 9|campaign order|classic tower|tier recommendations/i.test(s.table.caption));
+  for (const type of p.slug?['WebPage','BreadcrumbList','FAQPage',...(hasList?['ItemList']:[])]:['WebSite','VideoGame','FAQPage']) check(types.includes(type),`${path}: missing ${type} schema`);
   check(!types.some(t => ['Offer','Review','AggregateRating','HowTo'].includes(t)),`${path}: unsupported schema`);
   const fs = schemas.find(s => s['@type']==='FAQPage');
   check(fs?.mainEntity.length===p.faq.length,`${path}: FAQ schema count mismatch`);
@@ -98,4 +99,4 @@ for (const technical of ['llms.txt','llms-full.txt']) {
  const text=read(join(out,technical));check(text.includes(origin+'/')&&!text.includes('/wiki/'),`${technical}: invalid URLs`);
 }
 if (errors.length) { console.error(errors.join('\n'));process.exit(1); }
-console.log(`Static SEO audit passed${draft?' (pre-launch draft)':''}: 8 launch pages, metadata, schema, navigation, assets and internal links.`);
+console.log(`Static SEO audit passed${draft?' (pre-launch draft)':''}: ${all.length} pages, metadata, schema, navigation, assets and internal links.`);
